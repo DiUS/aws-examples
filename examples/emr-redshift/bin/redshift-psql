@@ -1,0 +1,22 @@
+#!/usr/bin/env ruby
+
+$: << File.expand_path("../../lib", __FILE__)
+
+require 'dius/aws'
+
+include Dius::Aws
+
+REDSHIFT_CLUSTER_ID = 'aws-examples'
+REDSHIFT_USER = ENV['REDSHIFT_USER']
+REDSHIFT_PASSWORD = ENV['REDSHIFT_PASSWORD']
+
+command = nil
+redshift_with_cluster(REDSHIFT_CLUSTER_ID) do |cluster|
+  command = "psql"
+  command += " -h #{cluster.endpoint.address} -p #{cluster.endpoint.port}"
+  command += " -U #{REDSHIFT_USER}"
+  command += " -d #{cluster.db_name}"
+  ENV['PGPASSWORD'] = REDSHIFT_PASSWORD
+end
+
+exec command

@@ -1,0 +1,25 @@
+
+nohup curl -O -A "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.17 Safari/537.36" "http://www.discogs.com/data/discogs_20130801_artists.xml.gz" > artists.out 2>&1 &
+nohup curl -O -A "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.17 Safari/537.36" "http://www.discogs.com/data/discogs_20130801_labels.xml.gz" > labels.out 2>&1 &
+nohup curl -O -A "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.17 Safari/537.36" "http://www.discogs.com/data/discogs_20130801_masters.xml.gz" > masters.out 2>&1 &
+nohup curl -O -A "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.17 Safari/537.36" "http://www.discogs.com/data/discogs_20130801_releases.xml.gz" > releases.out 2>&1 &
+
+gunzip *.gz
+
+#wget -O- -q http://s3tools.org/repo/deb-all/stable/s3tools.key | sudo apt-key add -
+#sudo wget -O/etc/apt/sources.list.d/s3tools.list http://s3tools.org/repo/deb-all/stable/s3tools.list
+#sudo apt-get update
+#sudo apt-get install s3cmd
+
+cd /opt
+wget http://sourceforge.net/projects/s3tools/files/s3cmd/1.5.0-alpha1/s3cmd-1.5.0-alpha1.tar.gz
+tar xvzf s3cmd-1.5.0-alpha1.tar.gz
+cd s3cmd-1.5.0-alpha1
+python setup.py install
+
+s3cmd --configure
+
+s3cmd put discogs_20130801_artists.xml s3://aws-examples.dius.com.au/sources/discogs_20130801_artists.xml
+s3cmd put discogs_20130801_labels.xml s3://aws-examples.dius.com.au/sources/discogs_20130801_labels.xml
+s3cmd put discogs_20130801_masters.xml s3://aws-examples.dius.com.au/sources/discogs_20130801_masters.xml
+s3cmd put discogs_20130801_releases.xml s3://aws-examples.dius.com.au/sources/discogs_20130801_releases.xml

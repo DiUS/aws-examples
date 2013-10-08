@@ -1,0 +1,27 @@
+# Describe clusters
+
+{:clusters => [
+    {:cluster_security_groups => [
+        {:status => "active", :cluster_security_group_name => "default"}
+    ],
+    :vpc_security_groups => [],
+    :cluster_parameter_groups => [
+        {:parameter_apply_status => "in-sync", :parameter_group_name => "default.redshift-1.0"}
+    ],
+    :pending_modified_values => nil,
+    :cluster_version => "1.0",
+    :endpoint => {:port => 5439, :address => "aws-examples.c7vpju9gg1yu.us-east-1.redshift.amazonaws.com"},
+    :cluster_status => "available",
+    :encrypted => false,
+    :number_of_nodes => 1,
+    :publicly_accessible => true,
+    :automated_snapshot_retention_period => 1,
+    :db_name => "warehouse",
+    :preferred_maintenance_window => "sun:04:00-sun:04:30",
+    :cluster_create_time => 2013-09-02 01 : 14 : 35 UTC,
+    :availability_zone => "us-east-1d",
+    :node_type => "dw.hs1.xlarge",
+    :cluster_identifier => "aws-examples",
+    :allow_version_upgrade => true, :master_username => "admin"}
+],
+:response_metadata => {:request_id => "70e64276-1370-11e3-b6ca-a52106dd575f"}}

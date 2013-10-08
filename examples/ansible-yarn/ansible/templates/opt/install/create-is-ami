@@ -1,0 +1,37 @@
+#!/bin/bash -eu
+
+USAGE="create-is-ami HOST AMI_NAME"
+
+if [ "$#" != "2" ]; then echo $USAGE; exit 1 done
+
+HOST=$1
+AMI_NAME=$2
+AWS_SIGNING_KEY
+AWS_USER_ID=9865-0848-1973
+
+ssh -i $KEY rev@$HOST mkdir -p /tmp/cert
+scp -i $KEY ~/.ssh/aws_signing_cert* rev@$HOST:/tmp/cert
+
+ssh -i $KEY rev@$HOST \
+  ". ~/.bash_profile; \
+  sudo ec2-bundle-vol \
+  -p $AMI_NAME \
+  -r x86_64 \
+  -u $AWS_USER_ID \
+  -k /tmp/cert/aws_signing_cert_key.pem \
+  -c /tmp/cert/aws_signing_cert.pem \
+  -e /tmp/cert"
+
+ssh -i $KEY rev@$HOST \
+  ". ~/.bash_profile; \
+  sudo ec2-upload-bundle \
+  -b ami.realestateview.com.au \
+  -m /tmp/$AMI_NAME.manifest.xml \
+  -a $AWS_ACCESS_KEY \
+  -s $AWS_SECRET_KEY"
+
+ec2-register \
+  ami.realestateview.com.au/$AMI_NAME.manifest.xml \
+  -n $AMI_NAME \
+  -O $AWS_ACCESS_KEY \
+  -W $AWS_SECRET_KEY

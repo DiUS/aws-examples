@@ -1,0 +1,42 @@
+#!/usr/bin/env ruby
+
+$: << File.expand_path("../../lib", __FILE__)
+
+require 'dius/aws'
+
+include Dius::Aws
+
+def usage
+  puts "Usage: emr run NAME"
+end
+
+def emr_run(job_flow_name)
+  job_flow_id = emr_run_flow(job_flow_name) do |config|
+    config[:bootstrap_actions].push(
+      :name => "Install ruby",
+          :script_bootstrap_action => {
+          :path => "s3n://aws-examples.dius.com.au/bootstrap/install-ruby.sh"
+      }
+    )
+    config[:bootstrap_actions].push(
+        :name => "Install jars",
+        :script_bootstrap_action => {
+            :path => "s3n://aws-examples.dius.com.au/bootstrap/install-jars.sh"
+        }
+    )
+  end
+end
+
+if ARGV.length < 2
+  usage
+  exit 1
+end
+
+case ARGV[0]
+when "run"
+  job_flow_id = emr_run ARGV[1]
+  puts "Job flow ID: #{job_flow_id}"
+else
+  usage
+  exit 1
+end

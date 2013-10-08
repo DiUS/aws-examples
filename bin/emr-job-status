@@ -1,0 +1,12 @@
+#!/usr/bin/env ruby
+
+$: << File.expand_path("../../lib", __FILE__)
+
+require 'dius/aws'
+
+include Dius::Aws
+
+job = emr.job_flows[ARGV[0]]
+job.step_details.each do |step|
+  puts step[:step_config][:name] + ": " + step[:execution_status_detail][:state]
+end

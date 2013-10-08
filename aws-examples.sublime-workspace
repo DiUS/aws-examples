@@ -1,0 +1,563 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"job",
+				"job_flow_name"
+			],
+			[
+				"jo",
+				"job_flow_name"
+			],
+			[
+				"A",
+				"ARGV"
+			],
+			[
+				"gl",
+				"glide_event_handler"
+			],
+			[
+				"ala",
+				"alarm_direction"
+			],
+			[
+				"alarm",
+				"alarm_tone"
+			],
+			[
+				"al",
+				"alarm_tone"
+			],
+			[
+				"shell_",
+				"shell_printf"
+			],
+			[
+				"shell_l",
+				"shell_list_listeners"
+			],
+			[
+				"event",
+				"event_fire_event"
+			],
+			[
+				"EVENT_D",
+				"EVENT_DESCRIPTOR_HUM_TEMP_CHANGE"
+			],
+			[
+				"EVE",
+				"EVENT_TYPE_HUM_TEMP"
+			],
+			[
+				"curre",
+				"current_change_event"
+			],
+			[
+				"EVENT",
+				"EVENT_DESCRIPTOR_HUM_TEMP_CHANGE"
+			],
+			[
+				"notif",
+				"notifier_add_event_listener"
+			],
+			[
+				"hum",
+				"humidity_change"
+			],
+			[
+				"pin",
+				"pin_output_compare"
+			],
+			[
+				"TI",
+				"TIMER_OC_A"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "bin/deploy",
+			"settings":
+			{
+				"buffer_size": 857,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 27.0,
+		"selected_items":
+		[
+		],
+		"width": 404.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/cam/software/dius/aws-examples/examples/emr-hive/bin/deploy",
+		"/Users/cam/software/dius/aws-examples/bin/emr",
+		"/Users/cam/software/dius/aws-examples/lib/dius/aws.rb",
+		"/Users/cam/software/dius/aws-examples/bin/deploy",
+		"/Users/cam/software/dius/aws-examples/bin/hive",
+		"/Users/cam/software/dius/aws-examples/src/db/hive-schema.sql",
+		"/Users/cam/software/dius/aws-examples/bin/emr-job-status",
+		"/Users/cam/software/dius/aws-examples/bin/emr-run-script",
+		"/Users/cam/software/dius/aws-examples/bin/emr-step",
+		"/Users/cam/software/dius/aws-examples/bin/hive-step",
+		"/Users/cam/software/dius/aws-examples/bin/redshift-launch",
+		"/Users/cam/software/dius/aws-examples/bin/redshift-psql",
+		"/Users/cam/software/dius/aws-examples/bin/redshift-schema",
+		"/Users/cam/software/dius/aws-examples/doc/cdh4/hive-site.xml",
+		"/Users/cam/software/dius/aws-examples/doc/emr-hive-default.xml",
+		"/Users/cam/software/dius/aws-examples/src/conf/hive-site.xml",
+		"/Users/cam/software/dius/aws-examples/bin/emr-launch",
+		"/Users/cam/software/dius/aws-examples/doc/cdh4/mapred-site.xml",
+		"/Users/cam/software/dius/aws-examples/src/conf/hdfs_site.xml",
+		"/Users/cam/software/dius/aws-examples/src/conf/mapred_site.xml",
+		"/Users/cam/software/dius/aws-examples/src/conf/core-site.xml",
+		"/Users/cam/software/dius/aws-examples/doc/cdh4/hdfs-site.xml",
+		"/Users/cam/software/dius/aws-examples/src/bootstrap/install-jars.sh",
+		"/Users/cam/software/dius/aws-examples/doc/hdfs-site.xml",
+		"/Users/cam/software/dius/aws-examples/lib/ruby/dius/aws.rb",
+		"/Users/cam/software/dius/aws-examples/ec2_ap-southeast-2.pem",
+		"/Users/cam/software/dius/aws-examples/doc/notes.txt",
+		"/Users/cam/software/dius/aws-examples/bin/emr-deploy",
+		"/Users/cam/software/dius/aws-examples/lib/ruby/dius/aws-example.rb",
+		"/Users/cam/software/dius/aws-example/src/db/hive-schema.sql",
+		"/Users/cam/software/dius/aws-example/.idea/workspace.xml",
+		"/Users/cam/software/dius/aws-example/aws-example.sublime-project",
+		"/Users/cam/software/dius/aws-example/bin/emr-deploy",
+		"/Users/cam/software/dius/aws-example/bin/emr-job-status",
+		"/Users/cam/software/dius/aws-example/bin/emr-launch",
+		"/Users/cam/software/dius/aws-example/bin/emr-run-script",
+		"/Users/cam/software/dius/aws-example/bin/emr-step",
+		"/Users/cam/software/dius/aws-example/bin/redshift-launch",
+		"/Users/cam/software/dius/aws-example/bin/redshift-psql",
+		"/Users/cam/software/dius/aws-example/bin/redshift-schema",
+		"/Users/cam/software/dius/aws-example/doc/api_responses.txt",
+		"/Users/cam/software/dius/aws-example/doc/discogs.txt",
+		"/Users/cam/software/dius/aws-example/doc/notes.txt",
+		"/Users/cam/software/dius/aws-example/lib/ruby/dius/aws-example.rb",
+		"/Users/cam/software/dius/aws-example/src/bootstrap/install-jars.sh",
+		"/Users/cam/software/dius/aws-example/src/steps/java/au/com/dius/redshift/ArtistJob.java",
+		"/Users/cam/software/dius/woolworths/bin/emr-deploy",
+		"/Users/cam/software/dius/woolworths/bin/emr-job-status",
+		"/Users/cam/software/dius/woolworths/bin/emr-launch",
+		"/Users/cam/software/dius/woolworths/bin/emr-run-script",
+		"/Users/cam/software/dius/woolworths/bin/emr-step",
+		"/Users/cam/software/dius/woolworths/bin/redshift-launch",
+		"/Users/cam/software/dius/woolworths/bin/redshift-psql",
+		"/Users/cam/software/dius/woolworths/bin/redshift-schema",
+		"/Users/cam/software/dius/woolworths/lib/ruby/dius/redshift-example.rb",
+		"/Users/cam/software/dius/woolworths/src/db/hive-schema.sql",
+		"/Users/cam/software/dius/woolworths/.idea/workspace.xml",
+		"/Users/cam/software/dius/woolworths/doc/api_responses.txt",
+		"/Users/cam/software/dius/woolworths/doc/discogs.txt",
+		"/Users/cam/software/dius/woolworths/doc/notes.txt",
+		"/Users/cam/software/dius/woolworths/src/bootstrap/install-jars.sh",
+		"/Users/cam/software/dius/woolworths/src/steps/java/au/com/dius/redshift/ArtistJob.java",
+		"/Volumes/home/extra/it.txt",
+		"/Users/cam/Documents/dius/swinburne/advice.txt",
+		"/Users/cam/software/redshift-example/bin/emr-launch",
+		"/Users/cam/Documents/dius/swinburne/proposal.txt",
+		"/Users/cam/software/dius/ec2-tools/bin/ec2-launch",
+		"/Users/cam/software/dius/ec2-tools/bin/ec2-start",
+		"/Users/cam/software/dius/ec2-tools/bin/ec2-state",
+		"/Users/cam/software/sensimatic/wetector/src/wetector/ui.c",
+		"/Users/cam/software/sensimatic/sensimatic/src/sensimatic/hal/arduino/hal_timer.c",
+		"/Users/cam/software/sensimatic/sensimatic/src/sensimatic/hal/arduino/hal_gpio.c",
+		"/Users/cam/software/sensimatic/synth/doc/freq",
+		"/Users/cam/software/sensimatic/synth/src/synth/synth.c",
+		"/Users/cam/software/sensimatic/wetector/src/wetector/wetector.c",
+		"/Users/cam/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/cam/software/rev/rev-desktop/config/environments/staging.yml",
+		"/Users/cam/software/rev/rev-automation/ansible/templates/etc/mysql/conf.d/slave.cnf",
+		"/Users/cam/software/rev/rev-automation/ansible/inventory/new-production/group_vars/rev_db",
+		"/Users/cam/software/rev/rev-automation/ansible/inventory/staging/group_vars/rev_db",
+		"/Users/cam/software/rev/rev-automation/ansible/templates/etc/mysql/conf.d/master.cnf",
+		"/Users/cam/software/rev/rev-desktop/bin/build.sh",
+		"/Users/cam/Documents/dius/swinburne/proposal notes",
+		"/Users/cam/software/rev/rev-automation/ansible/templates/etc/hosts_ultra_serve_virtual",
+		"/Users/cam/software/rev/rev-automation/ansible/templates/etc/hosts",
+		"/Users/cam/software/rev/rev-desktop/src/extra-modules-production/api/loadconfig.pm-REIV01-WEB01.ultraserve.net.au",
+		"/Users/cam/software/rev/rev-automation/ansible/inventory/dev/dev.ini",
+		"/Users/cam/software/rev/rev-automation/ansible/inventory/new-production/new-production.ini",
+		"/Users/cam/software/rev/rev-automation/ansible/inventory/staging/staging.ini",
+		"/Users/cam/software/rev/rev-automation/ansible/inventory/staging/group_vars/all",
+		"/Users/cam/software/rev/rev-automation/ansible/inventory/uat/uat.ini",
+		"/Users/cam/software/rev/rev-desktop/src/extra-modules-production/api/loadconfig.pm-REIV01-WEB03.ultraserve.net.au",
+		"/Users/cam/software/rev/rev-desktop/src/extra-modules-production/api/loadconfig.pm-REIV01-WEB02.ultraserve.net.au",
+		"/Users/cam/software/rev/rev-desktop/src/extra-modules-production/api/loadconfig.pm-reale01-06-06",
+		"/Users/cam/software/rev/rev-desktop/config/deploy.rb",
+		"/Users/cam/software/rev/rev-desktop/config/environments/production.yml",
+		"/Users/cam/software/rev/rev-desktop/build/cgi-bin/cron/database/db_backup.pm",
+		"/Users/cam/Dropbox/cred.txt",
+		"/Users/cam/software/sensimatic/sensimatic/src/sensimatic/shell.c",
+		"/Users/cam/software/sensimatic/wetector/res/pgm_strings.yml",
+		"/Users/cam/software/sensimatic/wetector/src/wetector/hum_temp.c",
+		"/Users/cam/software/sensimatic/sensimatic/src/sensimatic/log.h",
+		"/Users/cam/software/sensimatic/wetector/hum_temp.s",
+		"/Users/cam/software/sensimatic/fade/src/fade/fade.c",
+		"/Users/cam/software/sensimatic/blink/src/blink/blink.c",
+		"/Users/cam/software/sensimatic/sensimatic/src/sensimatic/event/gpio_event.c",
+		"/Users/cam/software/sensimatic/sensimatic/src/sensimatic/event/adc_event.h",
+		"/Users/cam/software/sensimatic/wetector/src/wetector/defs.h",
+		"/Users/cam/software/sensimatic/sensimatic/src/sensimatic/common.h",
+		"/Users/cam/software/sensimatic/sensimatic/src/sensimatic/common.c",
+		"/Users/cam/software/sensimatic/sensimatic/src/sensimatic/event/event.c",
+		"/Users/cam/software/sensimatic/sensimatic/src/sensimatic/sensimatic.c",
+		"/Users/cam/software/sensimatic/sensimatic/res/pgm_strings.yml",
+		"/Users/cam/software/sensimatic/wetector/Makefile",
+		"/Users/cam/software/sensimatic/sensimatic/src/sensimatic/log.c",
+		"/Users/cam/software/sensimatic/sensimatic/src/sensimatic/hal/hal_gpio.h",
+		"/Users/cam/software/sensimatic/sensimatic/doc/8271.pdf",
+		"/Users/cam/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/cam/software/dius/aws-examples",
+			"/Users/cam/software/dius/aws-example",
+			"/Users/cam/software/dius/woolworths",
+			"<open folders>",
+			"/Users/cam/software/sensimatic",
+			"/Users/cam/software/rev/rev-desktop",
+			"/Users/cam/software/rev/rev-automation",
+			"/Users/cam/software/rev/rev-desktop",
+			"/Users/cam/software/rev/rev-automation",
+			"/Users/cam/software/rev/rev-desktop/rev-automation",
+			"/Users/cam/software/rev/rev-desktop",
+			"",
+			"rev-desktop",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"../../ruby\"",
+			"\"../../lib/ruby\"",
+			"hive.metastore.uris",
+			"datanucleus.fixedDatastore",
+			"datanucleus.autoCreateSchema",
+			"javax.jdo.option.ConnectionDriverName<",
+			"javax.jdo.option.ConnectionURL",
+			"require 'dius/aws-examples'",
+			"AwsExample",
+			"AwsExamples",
+			"AwsExample",
+			"aws-example",
+			"redshift",
+			"RedshiftExample",
+			"redshift-example",
+			"gpio_set_frequency",
+			"reset_gpio",
+			"staging_advice_wordpress",
+			"real",
+			" allow_origin",
+			"header",
+			"access-control",
+			"allow",
+			"allow-origin",
+			"access-control-allow",
+			"ORIGIN",
+			"prod-sql-01",
+			"extra-modules",
+			"source_server_controller",
+			"_backup_table",
+			"rev_master",
+			"rev_backup",
+			"Free",
+			"frame size",
+			"stats",
+			"event_add_listener",
+			"300",
+			"current_change_event",
+			"TIMER_OC_B",
+			"\n    ",
+			"TIMER_OC_A"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"../../lib\"",
+			"\"../../ruby\"",
+			"require 'dius/aws'",
+			"Aws",
+			"aws-examples",
+			"AwsExample",
+			"aws-example",
+			"stg-sql-01"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "bin/deploy",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 857,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								857,
+								857
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"project": "aws-examples.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"hive",
+				"src/db/hive-schema.sql"
+			],
+			[
+				"hal",
+				"sensimatic/src/sensimatic/hal/arduino/hal_timer.c"
+			],
+			[
+				"hal_gp",
+				"sensimatic/src/sensimatic/hal/arduino/hal_gpio.c"
+			],
+			[
+				"rev_db",
+				"rev-automation/ansible/inventory/new-production/group_vars/rev_db"
+			],
+			[
+				"loadcon",
+				"rev-desktop/src/extra-modules-production/api/loadconfig.pm-REIV01-WEB01.ultraserve.net.au"
+			],
+			[
+				"stag",
+				"rev-desktop/config/environments/staging.yml"
+			],
+			[
+				"master",
+				"rev-automation/ansible/templates/etc/mysql/conf.d/master.cnf"
+			],
+			[
+				"hosts",
+				"rev-automation/ansible/templates/etc/hosts_ultra_serve_virtual"
+			],
+			[
+				"loadconfig",
+				"rev-desktop/src/extra-modules-production/api/loadconfig.pm-REIV01-WEB01.ultraserve.net.au"
+			],
+			[
+				"staging.yml",
+				"rev-desktop/config/environments/staging.yml"
+			],
+			[
+				"sla",
+				"rev-automation/ansible/templates/etc/mysql/conf.d/slave.cnf"
+			],
+			[
+				"slave",
+				"rev-automation/ansible/templates/etc/mysql/conf.d/slave.cnf"
+			],
+			[
+				"build.",
+				"rev-desktop/bin/build.sh"
+			],
+			[
+				"loadco",
+				"rev-desktop/src/extra-modules-production/api/loadconfig.pm-REIV01-WEB01.ultraserve.net.au"
+			],
+			[
+				"slave.",
+				"rev-automation/ansible/templates/etc/mysql/conf.d/slave.cnf"
+			],
+			[
+				"deploy.",
+				"rev-desktop/config/deploy.rb"
+			],
+			[
+				"db_back",
+				"rev-desktop/build/cgi-bin/cron/database/db_backup.pm"
+			],
+			[
+				"produ",
+				"rev-desktop/config/environments/production.yml"
+			],
+			[
+				"shell",
+				"sensimatic/src/sensimatic/shell.c"
+			],
+			[
+				"hal_",
+				"sensimatic/src/sensimatic/hal/arduino/hal_gpio.c"
+			],
+			[
+				"log",
+				"sensimatic/src/sensimatic/log.h"
+			],
+			[
+				"pgm_",
+				"wetector/res/pgm_strings.yml"
+			],
+			[
+				"gpio_ev",
+				"sensimatic/src/sensimatic/event/gpio_event.c"
+			],
+			[
+				"adc",
+				"sensimatic/src/sensimatic/event/adc_event.h"
+			],
+			[
+				"fade",
+				"fade/src/fade/fade.c"
+			],
+			[
+				"ui",
+				"wetector/src/wetector/ui.c"
+			],
+			[
+				"pgm",
+				"sensimatic/res/pgm_strings.yml"
+			],
+			[
+				"make",
+				"wetector/Makefile"
+			],
+			[
+				"log.h",
+				"sensimatic/src/sensimatic/log.h"
+			],
+			[
+				"ui.c",
+				"wetector/src/wetector/ui.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 320.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

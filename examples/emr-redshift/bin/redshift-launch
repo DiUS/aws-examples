@@ -1,0 +1,18 @@
+#!/usr/bin/env ruby
+
+$: << File.expand_path("../../lib", __FILE__)
+
+require 'dius/aws'
+
+include Dius::Aws
+
+REDSHIFT_CLUSTER_ID = 'aws-examples'
+REDSHIFT_DB = 'warehouse'
+REDSHIFT_USER = ENV['REDSHIFT_USER']
+REDSHIFT_PASSWORD = ENV['REDSHIFT_PASSWORD']
+
+redshift_create_cluster(REDSHIFT_CLUSTER_ID) do |config|
+  config[:db_name] = REDSHIFT_DB
+  config[:master_username] = REDSHIFT_USER
+  config[:master_user_password] = REDSHIFT_PASSWORD
+end

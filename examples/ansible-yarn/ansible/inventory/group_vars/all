@@ -1,0 +1,5 @@
+---
+
+admin_user: cam
+admin_user_private_key: /Users/cam/.ssh/ec2_ap-southeast-2.pem
+admin_user_public_key: /Users/cam/.ssh/ec2_ap-southeast-2.pub

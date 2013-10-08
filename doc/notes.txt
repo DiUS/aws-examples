@@ -1,0 +1,46 @@
+
+
+Streaming artist mapper
+5 x m1.xlarge slaves: 11 minutes
+
+
+
+bucket = $s3.buckets['aws-examples.dius.com.au']
+bucket.objects.with_prefix("artists").delete_all
+
+
+
+\COPY indent_header TO 'indent_header.csv' NULL '';
+\COPY indent_item TO 'indent_item.csv' NULL '';
+
+
+
+
+primary hdfs master:
+namenode
+journalnode
+zookeeper
+
+failover hdfs master:
+namenode
+journalnode
+zookeeper
+
+yarn master:
+resourcemanager
+journalnode
+zookeeper
+
+management:
+Hue
+Splunk
+zookeeper
+
+super slave:
+datanode
+nodemanager
+zookeeper
+
+standard slave:
+datanode
+nodemanager

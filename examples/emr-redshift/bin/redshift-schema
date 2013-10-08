@@ -1,0 +1,15 @@
+#!/usr/bin/env ruby
+
+$: << File.expand_path("../../lib", __FILE__)
+
+require 'dius/aws'
+
+include Dius::Aws
+
+REDSHIFT_CLUSTER_ID = 'aws-examples'
+REDSHIFT_USER = ENV['REDSHIFT_USER']
+REDSHIFT_PASSWORD = ENV['REDSHIFT_PASSWORD']
+
+redshift_with_connection(REDSHIFT_CLUSTER_ID, REDSHIFT_USER, REDSHIFT_PASSWORD) do |conn|
+  conn.exec(IO.read(File.join(File.dirname(__FILE__), "../src/db/schema.sql")))
+end

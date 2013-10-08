@@ -1,0 +1,32 @@
+#!/usr/bin/env ruby
+
+$: << File.expand_path("../../lib", __FILE__)
+
+require 'dius/aws'
+
+include Dius::Aws
+
+unless ARGV[0].length == 1
+	puts "Usage: deploy EXAMPLE"
+end
+
+example = ARGV[0]
+example_dir = File.join(File.dirname(__FILE__), "../examples/#{example}")
+bucket = s3.buckets['aws-examples.dius.com.au']
+
+folders = 
+
+conf = Dir.glob(File.join(File.dirname(__FILE__), "../src/conf/*.xml"))
+conf.each do |path|
+  bucket.objects["conf/" + File.basename(path)].write(Pathname.new(path))
+end
+
+scripts = Dir.glob(File.join(File.dirname(__FILE__), "../src/bootstrap/*.sh"))
+scripts.each do |path|
+  bucket.objects["bootstrap/" + File.basename(path)].write(Pathname.new(path))
+end
+
+steps = Dir.glob(File.join(File.dirname(__FILE__), "../src/steps/ruby/*.rb"))
+steps.each do |path|
+  bucket.objects["steps/" + File.basename(path)].write(Pathname.new(path))
+end

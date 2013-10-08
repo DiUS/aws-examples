@@ -1,0 +1,3638 @@
+<labels>
+    <label>
+        <images>
+            <image height="24" type="primary" uri="http://api.discogs.com/image/L-1-1111053865.png"
+                   uri150="http://api.discogs.com/image/L-150-1-1111053865.png" width="132"/>
+            <image height="126" type="secondary" uri="http://api.discogs.com/image/L-1-1139403654.gif"
+                   uri150="http://api.discogs.com/image/L-150-1-1139403654.gif" width="587"/>
+            <image height="196" type="secondary" uri="http://api.discogs.com/image/L-1-1200165078.gif"
+                   uri150="http://api.discogs.com/image/L-150-1-1200165078.gif" width="600"/>
+            <image height="121" type="secondary" uri="http://api.discogs.com/image/L-1-1258998163.png"
+                   uri150="http://api.discogs.com/image/L-150-1-1258998163.png" width="275"/>
+            <image height="720" type="secondary" uri="http://api.discogs.com/image/L-1-1348359908-8971.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-1-1348359908-8971.jpeg" width="382"/>
+            <image height="189" type="secondary" uri="http://api.discogs.com/image/L-1-1360101583-3643.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-1-1360101583-3643.jpeg" width="600"/>
+        </images>
+        <id>1</id>
+        <name>Planet E</name>
+        <contactinfo>Planet E Communications
+            P.O. Box 27218
+            Detroit, 48227, USA
+
+            p: 313.874.8729
+            f: 313.874.8732
+
+            email: info AT Planet-e DOT net
+        </contactinfo>
+        <profile>Classic Techno label from Detroit, USA.
+            [b]Label owner:[/b] [a=Carl Craig].
+        </profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.planet-e.net/</url>
+            <url>http://www.myspace.com/planetecom</url>
+            <url>http://www.facebook.com/planetedetroit</url>
+            <url>http://twitter.com/planetedetroit</url>
+            <url>http://soundcloud.com/planetedetroit</url>
+        </urls>
+        <sublabels>
+            <label>Antidote (4)</label>
+            <label>Community Projects</label>
+            <label>Guilty Pleasures</label>
+            <label>I Ner Zon Sounds</label>
+            <label>Planet E Communications, Inc.</label>
+            <label>TWPENTY</label>
+        </sublabels>
+    </label>
+    <label>
+        <id>2</id>
+        <name>Earthtones Recordings</name>
+        <contactinfo>Seasons Recordings
+            2236 Pacific Avenue
+            Suite D
+            Costa Mesa, CA 92627
+
+            tel: +1.949.574.5255
+            fax: +1.949.574.0255
+
+            email: &lt;a href="mailto:jthinnes@seasonsrecordings.com"&gt;jthinnes@seasonsrecordings.com&lt;/a&gt;
+        </contactinfo>
+        <profile>California deep house label founded by Jamie Thinnes. Now defunct and continued as [l=Seasons
+            Recordings].
+        </profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.seasonsrecordings.com/</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="152" type="primary" uri="http://api.discogs.com/image/L-3-1300892377.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-3-1300892377.jpeg" width="600"/>
+            <image height="152" type="secondary" uri="http://api.discogs.com/image/L-3-1300892362.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-3-1300892362.jpeg" width="600"/>
+        </images>
+        <id>3</id>
+        <name>Seasons Recordings</name>
+        <contactinfo>Seasons Recordings
+            2236 Pacific Avenue
+            Suite D
+            Costa Mesa, CA 92627
+
+            Jamie Thinnes
+
+            Tel: 949-574-5255
+            Fax: 949-574-0255
+
+            jthinnes@seasonsrecordings.com
+            info@seasonsrecordings.com
+        </contactinfo>
+        <profile>California Deep-House Label Founded By Jamie Thinnes.
+            The First 10 Records Were Released on [l=Earthtones Recordings]
+        </profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.seasonsrecordings.com</url>
+        </urls>
+        <sublabels>
+            <label>Seasons Classics</label>
+            <label>Seasons Limited</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="128" type="primary" uri="http://api.discogs.com/image/L-4-1095373372.jpg"
+                   uri150="http://api.discogs.com/image/L-150-4-1095373372.jpg" width="280"/>
+            <image height="200" type="secondary" uri="http://api.discogs.com/image/L-4-1371692192-8525.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-4-1371692192-8525.jpeg" width="200"/>
+            <image height="40" type="secondary" uri="http://api.discogs.com/image/L-4-1128380431.gif"
+                   uri150="http://api.discogs.com/image/L-150-4-1128380431.gif" width="277"/>
+            <image height="344" type="secondary" uri="http://api.discogs.com/image/L-4-1241460079.png"
+                   uri150="http://api.discogs.com/image/L-150-4-1241460079.png" width="233"/>
+        </images>
+        <id>4</id>
+        <name>Siesta Music</name>
+        <contactinfo>Siesta Records
+            1913 Via Encantadoras
+            San Diego, CA 92173
+
+            phone 619.789.7793
+
+            info@siestarecords.com
+        </contactinfo>
+        <data_quality>Needs Vote</data_quality>
+        <urls>
+            <url>www.siestarecords.com</url>
+            <url>http://www.facebook.com/pages/Siesta-Records-Gear/154910143836?sk=app_167097993346860</url>
+            <url>http://soundcloud.com/siestarecords</url>
+            <url>https://twitter.com/siestarecords</url>
+            <url>http://www.myspace.com/siestarecords</url>
+        </urls>
+        <sublabels>
+            <label>Bella Recordings</label>
+            <label>Bluem Recordings</label>
+            <label>Moezee Muzik</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="337" type="primary" uri="http://api.discogs.com/image/L-5-1136662517.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-5-1136662517.jpeg" width="600"/>
+        </images>
+        <id>5</id>
+        <name>Svek</name>
+        <contactinfo>Svek office
+            Stephan Grieder
+            Fax: +46 (8) 50621292
+
+            Address: Stephan Grieder, Lodgatan 2, 114 30 Stockholm, Sweden
+        </contactinfo>
+        <parentLabel>Goldhead Music</parentLabel>
+        <data_quality>Correct</data_quality>
+        <sublabels>
+            <label>Birdy</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="302" type="primary" uri="http://api.discogs.com/image/L-6-1085244231.jpg"
+                   uri150="http://api.discogs.com/image/L-150-6-1085244231.jpg" width="300"/>
+        </images>
+        <id>6</id>
+        <name>Ruffhouse Records</name>
+        <profile>Founded in 1989 by Chris Schwartz and Philadelphia hip-hop engineer and producer Joe "The Butcher"
+            Nicolo as a joint venture with Columbia Records. In 1999, Schwartz and Nicolo stopped the label. Schwartz
+            and Kevon Glickman continued with RuffNation Records; Nicolo continued with Judgement Records.
+
+            Artists included Cypress Hill, Kriss Kross, The Fugees and Lauryn Hill.
+        </profile>
+        <parentLabel>Columbia</parentLabel>
+        <data_quality>Correct</data_quality>
+        <sublabels>
+            <label>Rufflife UK Ltd.</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="81" type="primary" uri="http://api.discogs.com/image/L-7-1256332938.png"
+                   uri150="http://api.discogs.com/image/L-150-7-1256332938.png" width="311"/>
+        </images>
+        <id>7</id>
+        <name>F-111 Records</name>
+        <contactinfo>75 Rockerfeller Plaza
+            New York, NY 10019-6908
+            USA
+        </contactinfo>
+        <parentLabel>Warner Bros. Records</parentLabel>
+        <data_quality>Correct</data_quality>
+        <sublabels>
+            <label>Higher Education</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="97" type="secondary" uri="http://api.discogs.com/image/L-8-1127431353.gif"
+                   uri150="http://api.discogs.com/image/L-150-8-1127431353.gif" width="300"/>
+        </images>
+        <id>8</id>
+        <name>Rather Interesting</name>
+        <profile>R.I. was founded in 1994 by [a=Uwe Schmidt].
+
+            In a 2002 [url=http://www.barcodezine.com/Peter%20Namlook%20Interview.html]interview[/url] with FAX founder
+            [a=Pete Namlook] he stated "Rather Interesting is and always was a sub-label of FAX".
+
+            [a=Uwe Schmidt] announced in 2012 that Rather Interesting would no longer continue due to the untimely
+            passing of [a=Pete Namlook].
+
+            Labelcode [b]LC 6269[/b]
+        </profile>
+        <parentLabel>Fax +49-69/450464</parentLabel>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://music.hyperreal.org/labels/rather_interesting/</url>
+            <url>http://www.atom-tm.com</url>
+        </urls>
+        <sublabels>
+            <label>Rather Interesting Classics</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="295" type="primary" uri="http://api.discogs.com/image/L-9-1259569555.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-9-1259569555.jpeg" width="342"/>
+            <image height="300" type="secondary" uri="http://api.discogs.com/image/L-9-001.jpg"
+                   uri150="http://api.discogs.com/image/L-150-9-001.jpg" width="212"/>
+            <image height="333" type="secondary" uri="http://api.discogs.com/image/L-9-002.jpg"
+                   uri150="http://api.discogs.com/image/L-150-9-002.jpg" width="390"/>
+            <image height="294" type="secondary" uri="http://api.discogs.com/image/L-9-003.gif"
+                   uri150="http://api.discogs.com/image/L-150-9-003.gif" width="366"/>
+        </images>
+        <id>9</id>
+        <name>Deep4Life</name>
+        <contactinfo>Deep4Life Recordings,
+            P.O. Box 10146, Chicago Il [url=http://www.multimap.com/map/browse.cgi?client=public&amp;X=-9755000&amp;Y=5118000.94642516&amp;width=500&amp;height=300&amp;gride=-9755264&amp;gridn=5117611.94642516&amp;srec=0&amp;coordsys=mercator&amp;db=US&amp;addr1=&amp;addr2=&amp;addr3=chicago&amp;pc=60610&amp;advanced=true&amp;local=&amp;localinfosel=&amp;kw=&amp;inmap=&amp;table=&amp;ovtype=&amp;zm=0&amp;scale=25000&amp;out.x=9&amp;out.y=4]60610[/url].
+            Phone / Fax: (773) 878-5260
+            E-mail: deep4life@deep4life.com
+        </contactinfo>
+        <profile>House label from Chicago, USA. Started in October 1998 by [a=Chris Gray] with the first release
+            arriving in Spring 1999.
+        </profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.deep4life.com</url>
+            <url>http://www.myspace.com/deep4liferecordings</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="600" type="primary" uri="http://api.discogs.com/image/L-10-1300886628.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-10-1300886628.jpeg" width="600"/>
+            <image height="109" type="secondary" uri="http://api.discogs.com/image/L-10-001.gif"
+                   uri150="http://api.discogs.com/image/L-150-10-001.gif" width="150"/>
+        </images>
+        <id>10</id>
+        <name>Naked Music Recordings</name>
+        <contactinfo>Naked Music NYC Recordings
+            4663 18th Street
+            San Francisco, CA, 94114
+
+            bruno@naked-music.com
+        </contactinfo>
+        <profile>Run by [a=Jay Denes] &amp; [a=David Boonshoft].</profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.naked-music.com/</url>
+            <url>http://www.myspace.com/nakedmusicsf</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="261" type="primary" uri="http://api.discogs.com/image/L-12-1244695812.png"
+                   uri150="http://api.discogs.com/image/L-150-12-1244695812.png" width="397"/>
+            <image height="92" type="secondary" uri="http://api.discogs.com/image/L-12-1118732412.png"
+                   uri150="http://api.discogs.com/image/L-150-12-1118732412.png" width="150"/>
+            <image height="141" type="secondary" uri="http://api.discogs.com/image/L-12-1244695994.png"
+                   uri150="http://api.discogs.com/image/L-150-12-1244695994.png" width="289"/>
+        </images>
+        <id>12</id>
+        <name>Large Records</name>
+        <contactinfo>Large Music, LLC
+            2519 N California Ave
+            Chicago, IL 60647
+            United States (USA)
+
+            [b]Phone:[/b] +1 (773) 862-0073
+            [b]Fax:[/b] +1 (773) 862-0589
+
+            [url=mailto:info@largemusic.com]info@largemusic.com[/url]
+        </contactinfo>
+        <profile>House label from Chicago, USA.
+            [b]Founder &amp; Owner:[/b] [a=Jeff Craven]
+        </profile>
+        <data_quality>Needs Vote</data_quality>
+        <urls>
+            <url>http://www.largemusic.com</url>
+            <url>http://www.myspace.com/largemusic2</url>
+            <url>http://www.facebook.com/largemusic</url>
+            <url>http://www.twitter.com/largemusic</url>
+            <url>http://soundcloud.com/large-music</url>
+        </urls>
+        <sublabels>
+            <label>Large Music, LLC</label>
+            <label>Swing Street</label>
+            <label>Vista Recordings</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="600" type="primary" uri="http://api.discogs.com/image/L-13-1309875475.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-13-1309875475.jpeg" width="600"/>
+        </images>
+        <id>13</id>
+        <name>Glasgow Underground</name>
+        <contactinfo>Glasgow Underground
+            Fax: +44 (0) 207 692 7881
+            Email: kevin@glasgowunderground.com
+        </contactinfo>
+        <profile>Founded in 1997 by [a=Kevin McKay], Glasgow Underground was established to release quality dance music
+            from Glasgow and beyond. Based around artists like Muzique Tropique, Sixteen Souls, DJQ and Studio Blue,
+            Glasgow Underground fused the hot rhythms found in city clubs like the Sub Club and the Arches with live
+            musicianship and classic production. The aim was to create 21st century disco music for DJs and music fans
+            alike. Before long, like-minded artists were brought on as the label expanded. Renowned US producers like
+            Romanthony and Mateo and Matos were drafted in to add their inimitable styles to the roster. Although that¹s
+            not to say that homegrown talent was neglected. The cream of the UK house scene was recruited and artists
+            like the Idjut Boys, Daniel Ibbotson and Powder Productions added their own unique flare to the Glasgow
+            Underground cocktail. Album artists developed and a clear purpose became apparent. Solid club-rocking twelve
+            inch releases for DJs and considered long-players for the post-clubbing experience.
+        </profile>
+        <data_quality>Needs Vote</data_quality>
+        <urls>
+            <url>http://www.glasgowunderground.com/</url>
+            <url>http://www.facebook.com/glasgowunderground</url>
+            <url>http://www.myspace.com/glasgowunderground</url>
+            <url>http://soundcloud.com/glasgowunderground</url>
+            <url>http://glasgowunderground.tumblr.com/</url>
+            <url>http://twitter.com/kevinmckay</url>
+            <url>http://www.youtube.com/glasgowunderground</url>
+        </urls>
+        <sublabels>
+            <label>Muzique Tropique</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="127" type="secondary" uri="http://api.discogs.com/image/L-14-1110957395.gif"
+                   uri150="http://api.discogs.com/image/L-150-14-1110957395.gif" width="128"/>
+            <image height="296" type="primary" uri="http://api.discogs.com/image/L-14-1181340547.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-14-1181340547.jpeg" width="342"/>
+            <image height="46" type="secondary" uri="http://api.discogs.com/image/L-14-001.gif"
+                   uri150="http://api.discogs.com/image/L-150-14-001.gif" width="66"/>
+            <image height="142" type="secondary" uri="http://api.discogs.com/image/L-14-1147123933.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-14-1147123933.jpeg" width="157"/>
+            <image height="380" type="secondary" uri="http://api.discogs.com/image/L-14-1209071656.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-14-1209071656.jpeg" width="512"/>
+        </images>
+        <id>14</id>
+        <name>F Communications</name>
+        <contactinfo>F Communications
+            8, rue André Messager
+            75018 Paris - France
+
+            Phone: +33 1 47 707 808
+            Fax: +33 1 47 707 606
+            E-mail: info@fcom.fr
+        </contactinfo>
+        <profile>Founded in 1994 by [a=Eric Morand] and [a=Laurent Garnier] as a successor of [l=Fnac Music Dance
+            Division], 'After E comes F'
+
+            F.com has closed doors, spring 2008.
+
+            [b]Label Code: LC 01347[/b]
+        </profile>
+        <data_quality>Needs Vote</data_quality>
+        <urls>
+            <url>http://www.fcom.fr</url>
+            <url>http://www.dailymotion.com/fcom</url>
+            <url>http://www.myspace.com/fcom</url>
+            <url>http://www.youtube.com/user/fcommunications</url>
+            <url>http://www.sanchodoesfcom.com</url>
+        </urls>
+        <sublabels>
+            <label>F... U! FCOM</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="150" type="secondary" uri="http://api.discogs.com/image/L-15-002.jpg"
+                   uri150="http://api.discogs.com/image/L-150-15-002.jpg" width="150"/>
+            <image height="44" type="secondary" uri="http://api.discogs.com/image/L-15-1072998056.jpg"
+                   uri150="http://api.discogs.com/image/L-150-15-1072998056.jpg" width="250"/>
+        </images>
+        <id>15</id>
+        <name>20:20 Vision</name>
+        <contactinfo>web@2020recordings.com general enquiries
+            licensing@2020recordings.com licensing enquiries
+
+            2020 Vision Recordings Ltd.
+            PO Box 69 Leeds LS8 1UQ
+            UK
+        </contactinfo>
+        <profile>One of the most respected house labels in the UK. Owned by [a=Ralph Lawson], releasing quality
+            electronic music from across the globe.
+
+            Distributed by [l=Amato Distribution]. 00 44 (0) 208 838 8330
+
+            On some releases the company appears as 2020Vision.
+        </profile>
+        <data_quality>Needs Vote</data_quality>
+        <urls>
+            <url>http://www.2020recordings.com/</url>
+            <url>http://www.myspace.com/2020soundsystem</url>
+        </urls>
+        <sublabels>
+            <label>.dotbleep</label>
+            <label>2020 Midnight Visions</label>
+            <label>20:20 D Vision</label>
+            <label>20:20 Vintage Visions</label>
+            <label>Doublevision (2)</label>
+            <label>Fina Records</label>
+            <label>Infant Records</label>
+            <label>Nono Records (2)</label>
+        </sublabels>
+    </label>
+    <label>
+        <id>16</id>
+        <name>Sepia</name>
+        <data_quality>Needs Major Changes</data_quality>
+    </label>
+    <label>
+        <images>
+            <image height="592" type="primary" uri="http://api.discogs.com/image/L-18-1216672528.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-18-1216672528.jpeg" width="591"/>
+            <image height="251" type="secondary" uri="http://api.discogs.com/image/L-18-001.gif"
+                   uri150="http://api.discogs.com/image/L-150-18-001.gif" width="250"/>
+            <image height="320" type="secondary" uri="http://api.discogs.com/image/L-18-002.bmp"
+                   uri150="http://api.discogs.com/image/L-150-18-002.bmp" width="320"/>
+            <image height="138" type="secondary" uri="http://api.discogs.com/image/L-18-1216672507.gif"
+                   uri150="http://api.discogs.com/image/L-150-18-1216672507.gif" width="154"/>
+            <image height="502" type="secondary" uri="http://api.discogs.com/image/L-18-1216672518.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-18-1216672518.jpeg" width="500"/>
+        </images>
+        <id>18</id>
+        <name>Soma Quality Recordings</name>
+        <contactinfo>Soma Quality Recordings Ltd,
+            2nd Floor,
+            342 Argyle Street,
+            Glasgow
+            G2 8LY
+
+            Tel: +44 (0) 141 229 6220
+            Fax: +44 (0) 141 226 4383
+            Email: info@somarecords.com
+        </contactinfo>
+        <profile>Long-running label releasing tracks in the house/tech-house/techno vein. Founded in 1991 and still
+            active. Most notable for artists like Slam, Funk D'Void, H-Foundation, Percy X, and many others.
+            The company behind the label is [l270709].
+            The publishing entity is [l295038].
+            LC 12668
+        </profile>
+        <data_quality>Needs Vote</data_quality>
+        <urls>
+            <url>http://www.somarecords.com/</url>
+            <url>http://www.facebook.com/SomaRecords</url>
+            <url>http://www.myspace.com/somarecords</url>
+            <url>http://soundcloud.com/soma</url>
+            <url>http://twitter.com/SomaRecords</url>
+            <url>http://www.youtube.com/user/OfficialSomaRecords</url>
+        </urls>
+        <sublabels>
+            <label>Fenetik Music</label>
+            <label>Fifth Freedom</label>
+            <label>Paragraph</label>
+            <label>Pnuma</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="35" type="primary" uri="http://api.discogs.com/image/L-19-001.gif"
+                   uri150="http://api.discogs.com/image/L-150-19-001.gif" width="115"/>
+            <image height="60" type="secondary" uri="http://api.discogs.com/image/L-19-1134055490.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-19-1134055490.jpeg" width="260"/>
+        </images>
+        <id>19</id>
+        <name>Track Mode</name>
+        <contactinfo>Trackmode Recordings,
+            1170 Union St.,
+            Brooklyn, NY,
+            11225
+
+            tel. 718.771.9413
+            fax. 718.771.9415
+            email. brett@trackmode.com
+        </contactinfo>
+        <data_quality>Needs Vote</data_quality>
+        <sublabels>
+            <label>TMR Classics</label>
+            <label>TMR Essentials</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="130" type="primary" uri="http://api.discogs.com/image/L-20-001.jpg"
+                   uri150="http://api.discogs.com/image/L-150-20-001.jpg" width="130"/>
+        </images>
+        <id>20</id>
+        <name>Moody Recordings</name>
+        <profile>Moody Recordings</profile>
+        <parentLabel>Mix Connection Multimedia</parentLabel>
+        <data_quality>Needs Vote</data_quality>
+        <urls>
+            <url>http://www.mixconnection.com</url>
+            <url>http://www.facebook.com/pages/Moody-Recordings/150030428496885?ref=stream</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="89" type="secondary" uri="http://api.discogs.com/image/L-21-1106744452.jpg"
+                   uri150="http://api.discogs.com/image/L-150-21-1106744452.jpg" width="108"/>
+            <image height="75" type="primary" uri="http://api.discogs.com/image/L-21-1168792152.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-21-1168792152.jpeg" width="523"/>
+        </images>
+        <id>21</id>
+        <name>Drop Music</name>
+        <contactinfo>Tel.: +44 (0) 115 8770 658
+            Fax: +44 (0) 786 645 8436
+
+            info@dropmusic.co.uk
+        </contactinfo>
+        <profile>UK based house label, home to The Inland Knights.</profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.dropmusic.co.uk/</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="200" type="primary" uri="http://api.discogs.com/image/L-22-001.gif"
+                   uri150="http://api.discogs.com/image/L-150-22-001.gif" width="200"/>
+            <image height="166" type="secondary" uri="http://api.discogs.com/image/L-22-1263718230.png"
+                   uri150="http://api.discogs.com/image/L-150-22-1263718230.png" width="353"/>
+        </images>
+        <id>22</id>
+        <name>Dope Dragon</name>
+        <profile>Drum n Bass, Jungle label based in Bristol, UK.
+            Years active 1995-2006, now defunct.
+        </profile>
+        <parentLabel>Full Cycle Records</parentLabel>
+        <data_quality>Correct</data_quality>
+    </label>
+    <label>
+        <images>
+            <image height="150" type="secondary" uri="http://api.discogs.com/image/L-23-002.jpg"
+                   uri150="http://api.discogs.com/image/L-150-23-002.jpg" width="325"/>
+        </images>
+        <id>23</id>
+        <name>Grayhound Recordings</name>
+        <contactinfo>Grayhound Recordings
+            garth@grayhound.net
+        </contactinfo>
+        <profile>Grayhound Recordings was a pioneering dance label, whose unique vision was to fuse elements of House,
+            Dub, Techno and Psychedelic Funk. The first five releases in 1998 were co-productions from DJ Garth of San
+            Francisco's Wicked Crew who owns and runs the imprint. Grayhound was an off-shoot of the short-lived Wicked
+            Records project whose memorable hit was DJ Garth &amp; ETI's 'Twenty Minutes of Disco Glory' from 1996.
+
+            The label went on to expand it's roster including a stable of like-minded artists: Rocket (Garth &amp; Eric
+            James), DJ Garth &amp; ETI, Crosstown Traffic (Garth &amp; Rob Doten), Michoacan, Garth &amp; Markie Mark,
+            Jeno, DJ Harvey, Stranger (Ben Cook), Nectar, DJ Rasoul, Doc Martin, Dano &amp; Joeski, Rob Paine, Defenders
+            of the Faith, Mirror Boys (Thomas Bullock), Perry Farrell, Community Recordings, EBE, Audio Soul Project,
+            Nick Chacona, Joshua Collins, Patrick Turner, Charles Spencer, Succulent &amp; Mayaku.
+
+            Over a ten year period Grayhound released 53 vinyl singles. There were three compilation CDs culled from the
+            catalogue and mixed by Garth.
+
+            Vinyl was mastered by George Horn at Fantasy Studios in Berkeley, CA with artwork from James Bates at Atom
+            Design in London.
+
+            Garth's tracks have been featured in two films: Sony Music's 'Groove' and Gus Van Sant's 'Speedway Junky'.
+            Grayhound songs have been licensed in dozens of high profile DJ compilation mix CDs.
+        </profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.grayhound.net</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="38" type="primary" uri="http://api.discogs.com/image/L-24-001.jpg"
+                   uri150="http://api.discogs.com/image/L-150-24-001.jpg" width="300"/>
+        </images>
+        <id>24</id>
+        <name>Immigrant</name>
+        <contactinfo>email: immigrantmusic@mac.com</contactinfo>
+        <profile>Techno/House label founded by [a=Robin Porter] in New York City. Now it is based in Manchester, UK.
+        </profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.immigrantrecords.co.uk</url>
+            <url>http://www.facebook.com/pages/Immigrant-Records/36685556008</url>
+            <url>http://www.soundcloud.com/immigrant</url>
+            <url>http://www.myspace.com/immigrantindustries</url>
+        </urls>
+        <sublabels>
+            <label>Immigrant Digital</label>
+            <label>Shva Muzik</label>
+            <label>Traxstars</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="108" type="primary" uri="http://api.discogs.com/image/L-25-1363813822-9823.gif"
+                   uri150="http://api.discogs.com/image/L-150-25-1363813822-9823.gif" width="298"/>
+        </images>
+        <id>25</id>
+        <name>Mixer</name>
+        <contactinfo>Mixer Presents
+            213 West 35th Street, Suite 402
+            New York, NY 10001
+        </contactinfo>
+        <profile>Mixer (The Future Sound Of America)</profile>
+        <parentLabel>DMC</parentLabel>
+        <data_quality>Needs Vote</data_quality>
+        <urls>
+            <url>http://www.mixermag.com/</url>
+        </urls>
+    </label>
+    <label>
+        <id>26</id>
+        <name>Intrinsic Design</name>
+        <contactinfo>Rhythmic Distribution
+            40 Exchange Pl. Suite 1718
+            New York, NY 10005
+            (p) 212.232.6066
+            (f) 212.232.6068
+            mike@rhythmicnyc.com
+        </contactinfo>
+        <profile>Now part of Rhythmic Distribution</profile>
+        <parentLabel>UCMG New York</parentLabel>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.rhythmicnyc.com</url>
+        </urls>
+    </label>
+    <label>
+        <id>27</id>
+        <name>Leaf Recordings</name>
+        <contactinfo>125a-1030 Denman St.
+            Vancouver, BC
+            CANADA
+            V6G 2M6
+
+            Phone: 604-878-1640
+            Fax: 604-687-7445
+            Email: contact@leafrecordings.com
+        </contactinfo>
+        <profile>Founded in 1996 by [a=DJ Buck], along with Little T and Graham Boothby.</profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.techno.ca/leafrecordings/</url>
+        </urls>
+        <sublabels>
+            <label>Village Sound</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="276" type="primary" uri="http://api.discogs.com/image/L-28-1305485976.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-28-1305485976.jpeg" width="588"/>
+            <image height="293" type="secondary" uri="http://api.discogs.com/image/L-28-1305485983.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-28-1305485983.jpeg" width="594"/>
+        </images>
+        <id>28</id>
+        <name>Deep Vision Records</name>
+        <contactinfo>1639 Mountain Ave Scotch Plains
+            NJ 07076
+            Fax 908.490.0196
+        </contactinfo>
+        <data_quality>Correct</data_quality>
+        <sublabels>
+            <label>Aurei Records</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="75" type="primary" uri="http://api.discogs.com/image/L-29-1256888258.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-29-1256888258.jpeg" width="300"/>
+        </images>
+        <id>29</id>
+        <name>Recline</name>
+        <profile>Deep tech-house label owned by DJ/producer Pete Moss.</profile>
+        <data_quality>Correct</data_quality>
+    </label>
+    <label>
+        <images>
+            <image height="63" type="primary" uri="http://api.discogs.com/image/L-30-1196338529.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-30-1196338529.jpeg" width="460"/>
+            <image height="116" type="secondary" uri="http://api.discogs.com/image/L-30-1260707245.png"
+                   uri150="http://api.discogs.com/image/L-150-30-1260707245.png" width="271"/>
+            <image height="133" type="secondary" uri="http://api.discogs.com/image/L-30-1260707253.png"
+                   uri150="http://api.discogs.com/image/L-150-30-1260707253.png" width="281"/>
+        </images>
+        <id>30</id>
+        <name>Palette Recordings</name>
+        <contactinfo>[url=mailto:info@paletterecordings.com]info@paletterecordings.com[/url]</contactinfo>
+        <profile>Palette Recordings was started by [a=John Tejada] in the fall of 1996. It was set up as an outlet to
+            release his own work. Many years later it has become the primary label to release Tejada's work.
+        </profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.paletterecordings.com</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="130" type="secondary" uri="http://api.discogs.com/image/L-31-1133625617.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-31-1133625617.jpeg" width="130"/>
+            <image height="73" type="secondary" uri="http://api.discogs.com/image/L-31-1199876876.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-31-1199876876.jpeg" width="191"/>
+            <image height="63" type="secondary" uri="http://api.discogs.com/image/L-31-1199877682.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-31-1199877682.jpeg" width="170"/>
+        </images>
+        <id>31</id>
+        <name>Mosaic</name>
+        <profile>founded and run by [a=Steve O'Sullivan]</profile>
+        <data_quality>Correct</data_quality>
+        <sublabels>
+            <label>Bluespirit</label>
+            <label>Bluetrain</label>
+            <label>Echo Motif</label>
+            <label>Green/As It Is</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="97" type="primary" uri="http://api.discogs.com/image/L-32-1233162868.png"
+                   uri150="http://api.discogs.com/image/L-150-32-1233162868.png" width="313"/>
+            <image height="42" type="secondary" uri="http://api.discogs.com/image/L-32-001.gif"
+                   uri150="http://api.discogs.com/image/L-150-32-001.gif" width="208"/>
+        </images>
+        <id>32</id>
+        <name>Worship Recordings</name>
+        <contactinfo>Worship Records
+            5120 Walnut Street
+            Philadelphia, PA 19139
+
+            Phone: 215.476.0344
+            Fax: 215.476.3373
+
+            E-mail: info@worshiprecs.com
+        </contactinfo>
+        <profile>Label formed in 1998 by Philadelphia DJ's and producers [a=Rob Paine] and [a=Zach Ebers] (aka
+            [a=Solomonic Sound]) and Dan McGehean, to concentrate on the deep dub- and reggae-influenced side of house
+            music. Also managed by DJ Willyum ([a=Will Putney]).
+        </profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.worshiprecs.com</url>
+        </urls>
+        <sublabels>
+            <label>Shakedown Recordings</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="166" type="primary" uri="http://api.discogs.com/image/L-34-001.gif"
+                   uri150="http://api.discogs.com/image/L-150-34-001.gif" width="150"/>
+            <image height="104" type="secondary" uri="http://api.discogs.com/image/L-34-1210291760.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-34-1210291760.jpeg" width="360"/>
+        </images>
+        <id>34</id>
+        <name>Statra Recordings</name>
+        <contactinfo>Statra Recordings
+            8225 5th Ave # 441
+            Brooklyn, New York 11209
+
+            t: 718.858.5858 f.718.858.2280
+            f: 718.858.2280
+            e: music@statra.com
+        </contactinfo>
+        <profile>Statra Recordings is the well-respected independent record label founded by Brooklyn native Dave
+            Tomaselli back in April of 1999. The label was created to help distinguish electronic music in full-length
+            album form from its short-lived often-unrecognized cousin the 12 club record. Statra is one of those always
+            present but under the radar record labels that focuses on quality over quantity.
+
+            Statra quickly set the benchmark for electronic labels in the US with its unconventional A&amp;R style and
+            the infamous compilation series Harry The Bastard Presents - Club H. A succession of innovative and highly
+            coveted albums from artist like Jeff Sharel, Denver McCarthy, Charles Webster, and the 2000 label
+            compilation Statras Paradigm Shift quickly propelled Statra onto the international stage. The labels
+            releases were often referred to as timeless, future classic, and even brilliant.
+
+            With the creation of the vinyl only sub-labels STATRA TWELVES (Deep &amp; Tech House), STATRAVEL (Leftfield
+            &amp; Down-Tempo), and STATRAX, the collaboration label formed with world-renowned DJ &amp; producer Victor
+            Calderone, Statra continues to find success both on and off the dance floor.
+
+            Statras catalog is distributed in the US by A.D.A., Fusion 3 in Canada, Amato in UK, and is available online
+            at most digital download retailers via IODA.
+
+            Statra artists include: Harry The Bastard, Jeff Sharel, Lypid, Denver McCarthy, Nu Mood Orchestra, Chris J,
+            Charles Webster, Astrid Suryanto, J.Axel, Mr. Velcro Fastener, Victor Calderone, Stacy Burket, Alexi Delano,
+            Nick Chacona, Jussi Pekka, and James Geche.
+
+            Statra Recordings: Commercially Unmolested Since April 1999.
+        </profile>
+        <data_quality>Complete and Correct</data_quality>
+        <urls>
+            <url>http://www.statra.com</url>
+        </urls>
+        <sublabels>
+            <label>Pool Party</label>
+            <label>Statravel</label>
+            <label>Statrax</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="68" type="primary" uri="http://api.discogs.com/image/L-35-1096108087.jpg"
+                   uri150="http://api.discogs.com/image/L-150-35-1096108087.jpg" width="236"/>
+            <image height="84" type="secondary" uri="http://api.discogs.com/image/L-35-001.gif"
+                   uri150="http://api.discogs.com/image/L-150-35-001.gif" width="83"/>
+            <image height="56" type="secondary" uri="http://api.discogs.com/image/L-35-1072998086.jpg"
+                   uri150="http://api.discogs.com/image/L-150-35-1072998086.jpg" width="164"/>
+            <image height="157" type="secondary" uri="http://api.discogs.com/image/L-35-1263583167.png"
+                   uri150="http://api.discogs.com/image/L-150-35-1263583167.png" width="362"/>
+        </images>
+        <id>35</id>
+        <name>Ovum Recordings</name>
+        <contactinfo>Ovum Recordings,
+            1528 Walnut St.
+            #202
+            Phila, PA. 19102 USA
+        </contactinfo>
+        <profile>House label from Philadelphia, PA, USA. Founded in 1994 by [a=Josh Wink] and [a=King Britt].</profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.ovum-rec.com</url>
+            <url>http://www.ovumrecordings.com</url>
+            <url>http://www.myspace.com/ovumrecordings</url>
+            <url>http://twitter.com/ovumrecordings</url>
+        </urls>
+        <sublabels>
+            <label>Ovum Recordings (UK)</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="81" type="secondary" uri="http://api.discogs.com/image/L-36-1079931385.jpg"
+                   uri150="http://api.discogs.com/image/L-150-36-1079931385.jpg" width="160"/>
+        </images>
+        <id>36</id>
+        <name>End Recordings</name>
+        <contactinfo>End Recordings
+            18 West Central Street
+            London WC1A 1JJ UK
+
+            Tel: +44 (0)20 7419 9199
+            Fax: +44 (0)20 7419 9099
+            E-mail: ryan@endclub.com
+        </contactinfo>
+        <profile>From December 1995 The End flew the flag for underground dance music in London. It has had unparalleled
+            growth over three years with residencies from the worlds finest DJ's in all musical genres. Founded by Mr C
+            and Layo Paskin, The End was also the birthplace of End Recordings. The labels' output can be broadly
+            defined as representing the new hybrid sounds, which mould together techno, house and breakbeat. The End
+            closed the doors for one last time on 24th January 2009.
+
+            It’s was The End of The End as we know it…
+        </profile>
+        <data_quality>Needs Vote</data_quality>
+        <urls>
+            <url>http://www.endclub.com</url>
+            <url>http://www.endrecordings.co.uk</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="250" type="primary" uri="http://api.discogs.com/image/L-37-001.jpg"
+                   uri150="http://api.discogs.com/image/L-150-37-001.jpg" width="250"/>
+        </images>
+        <id>37</id>
+        <name>Zebra Recordings</name>
+        <data_quality>Correct</data_quality>
+    </label>
+    <label>
+        <id>38</id>
+        <name>Metro Trax Records</name>
+        <data_quality>Correct</data_quality>
+    </label>
+    <label>
+        <images>
+            <image height="231" type="primary" uri="http://api.discogs.com/image/L-39-1243749255.png"
+                   uri150="http://api.discogs.com/image/L-150-39-1243749255.png" width="210"/>
+            <image height="117" type="secondary" uri="http://api.discogs.com/image/L-39-001.jpg"
+                   uri150="http://api.discogs.com/image/L-150-39-001.jpg" width="114"/>
+            <image height="179" type="secondary" uri="http://api.discogs.com/image/L-39-1243749290.png"
+                   uri150="http://api.discogs.com/image/L-150-39-1243749290.png" width="332"/>
+        </images>
+        <id>39</id>
+        <name>i! Records</name>
+        <contactinfo>P.O. Box 1231
+            Clifton
+            NJ 07012
+            USA
+
+            Tel: 973-837-9840
+            Fax: 973-837-9841
+            Email: info@irecordings.com
+        </contactinfo>
+        <profile>Founded in 1993 by [a=George Calle] and [a=Joseph Ventola].</profile>
+        <data_quality>Needs Vote</data_quality>
+        <urls>
+            <url>http://www.irecordings.com</url>
+            <url>http://www.myspace.com/irecordingsusa</url>
+            <url>http://www.facebook.com/pages/i-Records/186623689045</url>
+            <url>http://twitter.com/IRecords</url>
+        </urls>
+        <sublabels>
+            <label>6-4</label>
+            <label>Cronic Records</label>
+            <label>Evenup</label>
+            <label>FNS Records</label>
+            <label>i2 Records</label>
+            <label>Plate</label>
+            <label>Yield</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="33" type="primary" uri="http://api.discogs.com/image/L-40-001.png"
+                   uri150="http://api.discogs.com/image/L-150-40-001.png" width="150"/>
+        </images>
+        <id>40</id>
+        <name>Loaded Records</name>
+        <contactinfo>[b]Loaded Records[/b]
+            P.O.Box 174
+            Brighton
+            BN1 4BA
+            UK
+
+            Tel: 44-1273-738527
+            Fax: 44-1273-208766
+            mail@loadedrecords.com
+        </contactinfo>
+        <profile>Started by DJs and club promoters [a=Tim Jeffery] &amp; [a=John Reid] in 1990, the philosphy of the
+            label was that, as in life, variety is the spice. It quickly established itself as one of the leading UK
+            house labels with classic tracks by Plez, Wildchild, Luke Slater and Ramp.
+
+            Success in the mid Nineties came with artists like Pizzaman and Slacker, more recently they have
+            consolidated themselves as one of the most consistent UK house labels with releases from Soul Grabber,
+            Annie, Laid, Hakan and Tribalation.
+        </profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.loadedrecords.com</url>
+        </urls>
+        <sublabels>
+            <label>Loaded Studios</label>
+            <label>Skint Records</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="231" type="secondary" uri="http://api.discogs.com/image/L-41-1137866795.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-41-1137866795.jpeg" width="300"/>
+        </images>
+        <id>41</id>
+        <name>Fathom</name>
+        <profile>Fathom is an ambient sub-label of Hearts of Space featuring releases by Steve Roach, Robert Rich, and
+            others. It was created in 1994.
+        </profile>
+        <parentLabel>Hearts Of Space</parentLabel>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.heartsofspace.com</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="210" type="primary" uri="http://api.discogs.com/image/L-42-1366941856-1827.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-42-1366941856-1827.jpeg" width="312"/>
+        </images>
+        <id>42</id>
+        <name>Viva!</name>
+        <contactinfo>Email: c.neiro@viva-recordings.com
+        </contactinfo>
+        <profile>Quality House Music From Seattle, WA USA
+
+            Founded in early 1998, the goal was to consistently put out records that would be loved and played by many
+            in the house music community. Viva Recordings found success with its first debut from Johnny Fiasco and the
+            with Rick Preston's Altruism EP, which gained notoriety when "Spring Fling" was featured on Mark Farina's
+            San Francisco Sessions Vol.1. From these early releases the road was paved for Viva Recordings' success.
+            Over the last few years we have been working on personal projects but now have decided to bring the label
+            back and take the Viva name back. If you feel your music fits in the scope of our label please send demos to
+            our A&amp;R/Label Manager Chad Neiro at his email.
+        </profile>
+        <data_quality>Needs Vote</data_quality>
+        <urls>
+            <url>http://www.viva-recordings.com/</url>
+            <url>http://www.myspace.com/vivarecordings</url>
+            <url>http://twitter.com/vivarecordings</url>
+            <url>http://facebook.com/vivarecordings</url>
+            <url>http://soundcloud.com/viva-recordings</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="600" type="primary" uri="http://api.discogs.com/image/L-43-1301152402.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-43-1301152402.jpeg" width="600"/>
+            <image height="338" type="secondary" uri="http://api.discogs.com/image/L-43-002.jpg"
+                   uri150="http://api.discogs.com/image/L-150-43-002.jpg" width="300"/>
+            <image height="169" type="secondary" uri="http://api.discogs.com/image/L-43-1200342963.gif"
+                   uri150="http://api.discogs.com/image/L-150-43-1200342963.gif" width="160"/>
+        </images>
+        <id>43</id>
+        <name>Axis</name>
+        <contactinfo>Axis Records
+            28 East Jackson Blvd. #1910
+            Chicago, Illinois 60604
+            USA
+
+            tel: 312 201 8539
+            fax: 312 588 0529
+
+            email: info@axisrecords.com
+            email: mills@axisrecords.com
+        </contactinfo>
+        <profile>[b]Established:[/b] 1991
+            [b]Country:[/b] USA
+            [b]City:[/b] Chicago
+            [b]Founder:[/b] [a=Jeff Mills]
+
+            [i]Theories and subjects of substances is the elementary element that fuels the minds within our Axis.[/i]
+        </profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.axisrecords.com</url>
+            <url>http://twitter.com/AxisRecords</url>
+            <url>http://www.youtube.com/user/AxisRecords1</url>
+        </urls>
+        <sublabels>
+            <label>6277</label>
+            <label>Luxury Records</label>
+            <label>Purpose Maker</label>
+            <label>Something In The Sky</label>
+            <label>Taken</label>
+            <label>Tomorrow</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="29" type="primary" uri="http://api.discogs.com/image/L-44-1078089519.jpg"
+                   uri150="http://api.discogs.com/image/L-150-44-1078089519.jpg" width="200"/>
+        </images>
+        <id>44</id>
+        <name>Nordic Trax</name>
+        <contactinfo>NORDIC TRAX
+            # 485 - 425 Carral St
+            Vancouver BC
+            V6B 6E3
+            Canada
+
+            [url=mailto:info@nordictrax.com]info@nordictrax.com[/url]
+
+            Tel. (604) 681-0336
+            Fax. (604) 688-2552
+        </contactinfo>
+        <profile>Nordic Trax originally began as a sub-label of Vancouver acid jazz label Mo Funk in 1997. After one
+            release it became a separate entity, it's only release (NT001) was sold to the newly formed Nordic Trax and
+            the label has been run by owner/operator Luke McKeehan from Vancouver ever since.
+        </profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.nordictrax.com</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="123" type="primary" uri="http://api.discogs.com/image/L-45-1240583723.png"
+                   uri150="http://api.discogs.com/image/L-150-45-1240583723.png" width="288"/>
+            <image height="427" type="secondary" uri="http://api.discogs.com/image/L-45-1226235140.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-45-1226235140.jpeg" width="600"/>
+        </images>
+        <id>45</id>
+        <name>Groovin' Records</name>
+        <data_quality>Correct</data_quality>
+    </label>
+    <label>
+        <images>
+            <image height="449" type="primary" uri="http://api.discogs.com/image/L-46-1246603532.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-46-1246603532.jpeg" width="600"/>
+            <image height="128" type="secondary" uri="http://api.discogs.com/image/L-46-001.gif"
+                   uri150="http://api.discogs.com/image/L-150-46-001.gif" width="173"/>
+        </images>
+        <id>46</id>
+        <name>Purpose Maker</name>
+        <contactinfo>Axis Records
+            6 East Monroe #901
+            Chicago, Illinois 60603
+            Tel. 1-312-422-0722
+            Fax 1-312-422-0755
+
+
+            email: info@axisrecords.com
+            email: mills@axisrecords.com
+        </contactinfo>
+        <profile>Purpose Maker is run by [a=Jeff Mills].</profile>
+        <parentLabel>Axis</parentLabel>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.axisrecords.com</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="170" type="primary" uri="http://api.discogs.com/image/L-47-1362254499-8965.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-47-1362254499-8965.jpeg" width="286"/>
+        </images>
+        <id>47</id>
+        <name>IntelliNET</name>
+        <contactinfo>PH 519.641.7059
+            FX 519.641.1399
+        </contactinfo>
+        <profile>Distribution company (and occasionally a record label) owned and operated by Richie Hawtin &amp; John
+            Acquaviva. Distributed all the in-house labels under the Plus 8 umbrella (Plus 8, Probe, Definitive, etc.)
+            as well as labels from other artists (Intangible, Acacia, Bomb, etc.).
+        </profile>
+        <data_quality>Needs Vote</data_quality>
+    </label>
+    <label>
+        <images>
+            <image height="96" type="primary" uri="http://api.discogs.com/image/L-48-001.gif"
+                   uri150="http://api.discogs.com/image/L-150-48-001.gif" width="120"/>
+            <image height="518" type="secondary" uri="http://api.discogs.com/image/L-48-1199567471.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-48-1199567471.jpeg" width="600"/>
+        </images>
+        <id>48</id>
+        <name>Wave Music</name>
+        <contactinfo>Wave Music
+            244 West 54th Street, Suite #800
+            New York City, NY 10019
+            USA
+
+            Phone: +1 212 757 8466
+            Fax: +1 212 757 4684
+        </contactinfo>
+        <profile>Founded in 1995 by its owner [a=François Kevorkian] as a means to release cutting-edge but timeless
+            music that doesn't necessarily fit the norm of what most people come to expect of a New York 'dance' indie
+            label. Rather than concentrating on a specific style, the label's mission has been to bring out an eclectic
+            and musically varied selection of music.
+        </profile>
+        <parentLabel>Wave Entertainment Group, Inc.</parentLabel>
+        <data_quality>Needs Vote</data_quality>
+        <urls>
+            <url>http://www.wavemusic.com/</url>
+            <url>http://www.myspace.com/wavemusicnyc</url>
+        </urls>
+        <sublabels>
+            <label>Clicktracks</label>
+            <label>Deep Space Media</label>
+            <label>Streetwave Music</label>
+            <label>Wave Classics</label>
+            <label>WaveTec</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="21" type="secondary" uri="http://api.discogs.com/image/L-49-1100449475.png"
+                   uri150="http://api.discogs.com/image/L-150-49-1100449475.png" width="75"/>
+            <image height="21" type="secondary" uri="http://api.discogs.com/image/L-49-1100449521.gif"
+                   uri150="http://api.discogs.com/image/L-150-49-1100449521.gif" width="75"/>
+        </images>
+        <id>49</id>
+        <name>Cytrax</name>
+        <profile>Cutting edge minimal techno label.
+            Operated by [url=http://www.discogs.com/artist/Jasper]John Mendez[/url],
+            [url=http://www.discogs.com/artist/Steve+Tang]Steve Tang[/url] and
+            [url=http://www.discogs.com/artist/Kit+Clayton]Kit Clayton[/url].
+        </profile>
+        <data_quality>Needs Vote</data_quality>
+        <sublabels>
+            <label>Delay</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="69" type="primary" uri="http://api.discogs.com/image/L-50-001.gif"
+                   uri150="http://api.discogs.com/image/L-150-50-001.gif" width="150"/>
+        </images>
+        <id>50</id>
+        <name>Fair Park</name>
+        <contactinfo>mike.constantino@gmail.com</contactinfo>
+        <data_quality>Needs Vote</data_quality>
+    </label>
+    <label>
+        <images>
+            <image height="307" type="primary" uri="http://api.discogs.com/image/L-51-001.jpg"
+                   uri150="http://api.discogs.com/image/L-150-51-001.jpg" width="307"/>
+        </images>
+        <id>51</id>
+        <name>Electrik Soul</name>
+        <contactinfo>Electrik Soul Records
+            47-10 Vernon Blvd
+            Long Island City, NY 11101
+            718.541.1565
+            718.504.6196
+
+            info@electriksoul.com
+        </contactinfo>
+        <data_quality>Correct</data_quality>
+    </label>
+    <label>
+        <images>
+            <image height="265" type="primary" uri="http://api.discogs.com/image/L-52-1312296415.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-52-1312296415.jpeg" width="300"/>
+            <image height="424" type="secondary" uri="http://api.discogs.com/image/L-52-1218723118.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-52-1218723118.jpeg" width="425"/>
+            <image height="173" type="secondary" uri="http://api.discogs.com/image/L-52-001.gif"
+                   uri150="http://api.discogs.com/image/L-150-52-001.gif" width="150"/>
+        </images>
+        <id>52</id>
+        <name>Low Pressings</name>
+        <contactinfo>Email: info@lowpressings.com
+            Chas Burns: chas@lowpressings.com
+            Hernan Cerbello: hernan@lowpressings.com
+        </contactinfo>
+        <profile>UK Breakbeat/House/Techno label started in 1997.
+
+            Run by [a=Chas Burns] (UK) &amp; [a=Hernan Cerbello] (Argentina) since 2008.
+
+            Digital distribution by [l=INgrooves].
+        </profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.lowpressings.com/</url>
+            <url>http://www.myspace.com/lowpressings</url>
+            <url>http://soundcloud.com/lowpressings</url>
+        </urls>
+        <sublabels>
+            <label>Beat Code</label>
+            <label>Boxa Records</label>
+            <label>Low Pressings Limited</label>
+            <label>More Devotion</label>
+            <label>Room 4 Recordings</label>
+            <label>Tight Records</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="237" type="primary" uri="http://api.discogs.com/image/L-53-1134254550.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-53-1134254550.jpeg" width="527"/>
+            <image height="142" type="secondary" uri="http://api.discogs.com/image/L-53-1266991159.png"
+                   uri150="http://api.discogs.com/image/L-150-53-1266991159.png" width="268"/>
+        </images>
+        <id>53</id>
+        <name>Camouflage Recordings</name>
+        <contactinfo>83 West Records
+            2 College Street West
+            Suite 206
+            Toronto, Ontario
+            M5G 1K3
+            Canada
+        </contactinfo>
+        <parentLabel>83 West Records</parentLabel>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.83west.com</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="600" type="secondary" uri="http://api.discogs.com/image/L-54-1179314312.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-54-1179314312.jpeg" width="520"/>
+            <image height="135" type="secondary" uri="http://api.discogs.com/image/L-54-1232322899.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-54-1232322899.jpeg" width="170"/>
+        </images>
+        <id>54</id>
+        <name>Cross Section Records</name>
+        <contactinfo>General Enquiries
+            Tel. +44(0)7870 328457
+            -----------------------------------------------------
+            DJ Bookings/PA's - Admin
+            bookings@crosssectionmusic.com
+            -----------------------------------------------------
+            Label Manager - Brian Royer
+            brian@crosssectionmusic.com
+            -----------------------------------------------------
+            PA to Chris Simmonds - Allison Garton
+            allison@crosssectionmusic.com
+        </contactinfo>
+        <profile>Head of Music - Chris Simmonds.
+            Founded by Lorraine Burrell in 1994 to promote the works and dj skills of Chris Simmonds, Magoo aka Private
+            Funk,Brian Royer,Ray Gibbons, Tim Deluxe, Mark Jones(Shuffle) Mike Huckaby as the Cross Section Collective.
+            Now the label continues with downloads available from the website exclusively, and a 24hr radio stream so
+            you can try before you buy!!
+        </profile>
+        <data_quality>Needs Vote</data_quality>
+        <urls>
+            <url>http://www.crosssectionmusic.com/</url>
+            <url>http://www.myspace.com/crosssectionmusic</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="70" type="primary" uri="http://api.discogs.com/image/L-55-001.gif"
+                   uri150="http://api.discogs.com/image/L-150-55-001.gif" width="148"/>
+            <image height="109" type="secondary" uri="http://api.discogs.com/image/L-55-1267477783.png"
+                   uri150="http://api.discogs.com/image/L-150-55-1267477783.png" width="329"/>
+        </images>
+        <id>55</id>
+        <name>Transport Recordings</name>
+        <contactinfo>E-mail: info@transportrecordings.com</contactinfo>
+        <profile>Dedicated to the true deep house heads all over the world, Transport Recordings is located in the heart
+            of San Francisco. Formed in December of 1998 by producer Miguel 'Migs', Marco Celone (aka DJ MFR) and Bruno
+            Ybarra, the label came about as an outlet to release deep, timely, West Coast based house music.
+
+
+        </profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.transportrecordings.com/</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="600" type="secondary" uri="http://api.discogs.com/image/L-56-1181042158.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-56-1181042158.jpeg" width="600"/>
+            <image height="205" type="secondary" uri="http://api.discogs.com/image/L-56-1196638452.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-56-1196638452.jpeg" width="545"/>
+            <image height="292" type="secondary" uri="http://api.discogs.com/image/L-56-1196638499.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-56-1196638499.jpeg" width="298"/>
+            <image height="510" type="secondary" uri="http://api.discogs.com/image/L-56-1196638543.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-56-1196638543.jpeg" width="512"/>
+        </images>
+        <id>56</id>
+        <name>Rising High Records</name>
+        <profile>Label founded in London UK in February 1991 by [a=Caspar Pound]. Had sister labels [l=Ascension
+            Records] (for dance music), [l=Sapho] (for more avant-garde experimental releases) and [l=Rising High USA]
+            (in America).
+
+            See also [r=90935] on Sony Japan and a variety of releases licensed to [l=Instinct Records].
+
+            The missing RSN 47 is the [r=27120] released on the sublabel [l=Sapho] where "RSN 47" appears etched in the
+            runout groove.
+
+            The missing RSN 58 is the [r=80684] released on the sublabel [l=Ascension Records] where "RSN 58" appears
+            etched in the runout groove.
+        </profile>
+        <parentLabel>Rising High Productions Ltd.</parentLabel>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.kompaktkiste.de/rising_high.htm</url>
+        </urls>
+        <sublabels>
+            <label>Ascension Records</label>
+            <label>Blue Angel Records</label>
+            <label>Harthouse U.K.</label>
+            <label>Rising High USA</label>
+            <label>Sapho</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="341" type="primary" uri="http://api.discogs.com/image/L-57-1230738345.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-57-1230738345.jpeg" width="338"/>
+            <image height="95" type="secondary" uri="http://api.discogs.com/image/L-57-1168788724.gif"
+                   uri150="http://api.discogs.com/image/L-150-57-1168788724.gif" width="210"/>
+        </images>
+        <id>57</id>
+        <name>Distance</name>
+        <profile>French label founded in 1995 by Jean Karakos, specialised in dance music ranging from Ambient, Techno,
+            Goa Trance and House
+
+            The label ceased releasing records in 2003 but re-surfaced in 2011 with a series of re-issues.
+        </profile>
+        <data_quality>Needs Vote</data_quality>
+        <urls>
+            <url>http://www.distancemusic.net</url>
+        </urls>
+        <sublabels>
+            <label>Question Mark ?ecords</label>
+            <label>Substance</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="148" type="secondary" uri="http://api.discogs.com/image/L-58-1138306902.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-58-1138306902.jpeg" width="300"/>
+        </images>
+        <id>58</id>
+        <name>A13</name>
+        <profile>Mid-90s techno label based in Essex, UK. Now defunct.</profile>
+        <data_quality>Correct</data_quality>
+    </label>
+    <label>
+        <images>
+            <image height="600" type="primary" uri="http://api.discogs.com/image/L-59-1342305524-8248.png"
+                   uri150="http://api.discogs.com/image/L-150-59-1342305524-8248.png" width="600"/>
+            <image height="236" type="secondary" uri="http://api.discogs.com/image/L-59-001.jpg"
+                   uri150="http://api.discogs.com/image/L-150-59-001.jpg" width="134"/>
+            <image height="253" type="secondary" uri="http://api.discogs.com/image/L-59-002.jpg"
+                   uri150="http://api.discogs.com/image/L-150-59-002.jpg" width="189"/>
+            <image height="393" type="secondary" uri="http://api.discogs.com/image/L-59-1104083067.jpg"
+                   uri150="http://api.discogs.com/image/L-150-59-1104083067.jpg" width="598"/>
+            <image height="450" type="secondary" uri="http://api.discogs.com/image/L-59-1104083107.jpg"
+                   uri150="http://api.discogs.com/image/L-150-59-1104083107.jpg" width="600"/>
+            <image height="600" type="secondary" uri="http://api.discogs.com/image/L-59-1104145330.jpg"
+                   uri150="http://api.discogs.com/image/L-150-59-1104145330.jpg" width="416"/>
+        </images>
+        <id>59</id>
+        <name>Tresor</name>
+        <contactinfo>Tresor Records,
+            A division of Interfisch Records.
+
+            Tresor Records
+            P.O. Box 36 04 28
+            D-10999 Berlin
+            Germany
+
+            email: label@tresorberlin.com
+        </contactinfo>
+        <profile>Berlin based techno label started in July 1991 by [a=Dimitri Hegemann], taking its name from the techno
+            club set up in an underground vault following the fall of the Berlin Wall.
+
+            1. Label Code: [b]LC 7572 / LC 07572[/b] (1991 - 2002)
+            2. Label Code: [b]LC 3702 / LC 03702[/b] (2002 - xxxx)
+        </profile>
+        <parentLabel>Interfisch Records</parentLabel>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.tresorberlin.com</url>
+            <url>http://www.myspace.com/tresorberlin</url>
+            <url>http://en.wikipedia.org/wiki/Tresor</url>
+        </urls>
+        <sublabels>
+            <label>Archiv (3)</label>
+            <label>Supremat</label>
+            <label>Tresor Records</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="68" type="primary" uri="http://api.discogs.com/image/L-60-1166077887.gif"
+                   uri150="http://api.discogs.com/image/L-150-60-1166077887.gif" width="450"/>
+            <image height="150" type="secondary" uri="http://api.discogs.com/image/L-60-1207333328.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-60-1207333328.jpeg" width="150"/>
+            <image height="203" type="secondary" uri="http://api.discogs.com/image/L-60-1078561501.gif"
+                   uri150="http://api.discogs.com/image/L-150-60-1078561501.gif" width="207"/>
+            <image height="223" type="secondary" uri="http://api.discogs.com/image/L-60-1164476151.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-60-1164476151.jpeg" width="227"/>
+            <image height="225" type="secondary" uri="http://api.discogs.com/image/L-60-1164476210.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-60-1164476210.jpeg" width="227"/>
+            <image height="223" type="secondary" uri="http://api.discogs.com/image/L-60-1164476277.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-60-1164476277.jpeg" width="227"/>
+            <image height="429" type="secondary" uri="http://api.discogs.com/image/L-60-1353009538-2896.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-60-1353009538-2896.jpeg" width="600"/>
+        </images>
+        <id>60</id>
+        <name>Fax +49-69/450464</name>
+        <contactinfo>Eulengasse 62
+            60385 Frankfurt a.M.
+            Germany
+
+            Fon: +49-69/467452
+            Fax: +49-69/450464
+        </contactinfo>
+        <profile>Fax +49-69/450464 was founded in late 1992 by [a=Peter Kuhlmann]. It was distributed via Neuton.
+            FAX's own releases are distinguished by the catalogue numbers.
+            Catalog numbers starting with PK (Peter Kuhlmann) feature work by [a=Pete Namlook] (= Peter Kuhlmann),
+            either solo or in collaboration with other artists.
+            Catalog numbers starting with PS (Peter's Sublabel) are for releases by other artists, without Namlook's
+            involvement.
+            Catalog numbers starting with PW (Peter's Worldlabel) indicate collaborations of a more international
+            character than the above (PK and PS releases are mainly, although not exclusively, German artists). The
+            "World" sublabel should not be confiused with the [l=Ambient World] sublabel.
+            The FAX releases are strictly limited, depending on the project. Most released are produced in editions of
+            500, 1000, 2000 or 3000 copies.
+            Some specific titles were licensed out to other labels ([l=Music Man Records], [l=R &amp; S Records] and
+            [l=Rising High Records] to name the most common licensees) for unlimited distribution in FAX's early days.
+            Due to problems with distribution and licensing, the in-house Ambient World sublabel was founded to handle
+            re-releases of out-of-print Fax titles.
+            Ambient World is a sublabel of FAX, catalog numbers starting with AW. AW only publishes re-releases with
+            unlimited distribution, but with a different cover design (and occasionally different tracks or edits).
+            There are a few other special catalog numbers: FAX Musical Postcards were issued in very limited quantities
+            as part of the Season's Greetings series and have the SEA catalog numbers. Yesterday And Tomorrow releases
+            are used for an ambient/classical fusion and recieve the YT catalog numbers. The PKPWPS catalog numbers are
+            used for compilations.
+            Most people are confused by the artist naming. The project names of collaborations are the artist name.
+
+            Labelcode: LC 6269
+        </profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.namlook.de</url>
+            <url>http://music.hyperreal.org/labels/fax/</url>
+            <url>http://www.2350.org</url>
+        </urls>
+        <sublabels>
+            <label>Ambient World</label>
+            <label>Rather Interesting</label>
+            <label>Yesterday &amp; Tomorrow</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="200" type="secondary" uri="http://api.discogs.com/image/L-61-1098822507.jpg"
+                   uri150="http://api.discogs.com/image/L-150-61-1098822507.jpg" width="200"/>
+        </images>
+        <id>61</id>
+        <name>Instinct Ambient</name>
+        <contactinfo>contact@instinctrecords.com</contactinfo>
+        <profile>Instinct Ambient was a sub-label of Instinct active from 1995 through 1997. Initially focussing on pure
+            ambient works, the later releases on the label also featured trip-hop and downtempo drum'n'bass sounds.
+
+            Some titles were also released in Europe on a [l=KK Records] sub-label called [l=Instinct Ambient Europe].
+
+            Instinct has released some titles under the Ambient Systems banner after 1997, but they no longer use the
+            Instinct Ambient label, and instead release them on the main label.
+        </profile>
+        <parentLabel>Instinct Records</parentLabel>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.instinctrecords.com</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="93" type="secondary" uri="http://api.discogs.com/image/L-62-1143517432.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-62-1143517432.jpeg" width="600"/>
+        </images>
+        <id>62</id>
+        <name>Eukahouse</name>
+        <contactinfo>Eukatech LTD
+            49 Endell Street
+            Covent Garden
+            London, WC2H 9AJ
+            United Kingdom.
+            Tel: +44 (0) 20 7240 8060
+            Fax: +44 (0) 20 7379 4939
+            Email: hq@eukatechrecords.com
+        </contactinfo>
+        <parentLabel>Eukatech</parentLabel>
+        <data_quality>Needs Vote</data_quality>
+        <urls>
+            <url>http://www.eukatechrecords.com</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="65" type="primary" uri="http://api.discogs.com/image/L-63-001.png"
+                   uri150="http://api.discogs.com/image/L-150-63-001.png" width="149"/>
+            <image height="180" type="secondary" uri="http://api.discogs.com/image/L-63-1143537858.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-63-1143537858.jpeg" width="175"/>
+        </images>
+        <id>63</id>
+        <name>Instinct Records</name>
+        <contactinfo>(Not Current)
+            222 West 14th Street, Suite 8B
+            New York, NY 10011
+
+            (Not Current)
+            26 W. 17th St. #502
+            New York, NY 10011
+
+            (Not Current)
+            81 Franklin Street, 3rd Floor
+            New York, NY 10013
+        </contactinfo>
+        <profile>Founded as a dance label in a Greenwich Village living room, Instinct Records gained prominence in the
+            early 1990s by releasing compilations of [l=Acid Jazz]-label material in the US. The simultaneous success of
+            the label's first signing, electronic musician [a=Moby], was built on by licensing and releasing seminal
+            recordings from [l=Rising High Records], [l=Kickin Records], and [l=Antler-Subway], as well as releasing
+            music by local techno-oriented ambient musicians signed to the label. Instinct was purchased by [l=Knitting
+            Factory Records] in 2003.
+
+            For company credits, please use [l=Instinct Records, Inc.]
+
+        </profile>
+        <parentLabel>Knitting Factory Records</parentLabel>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.instinctrecords.com/</url>
+        </urls>
+        <sublabels>
+            <label>Evolver (US)</label>
+            <label>Instinct Ambient</label>
+            <label>Instinct Jazz</label>
+            <label>Kickin Records USA</label>
+            <label>Liquid Music</label>
+            <label>Shadow Records</label>
+            <label>Sonic Records</label>
+        </sublabels>
+    </label>
+    <label>
+        <id>64</id>
+        <name>Ritual Recordings</name>
+        <contactinfo>Phone: (617) 306-0554.
+            Address: 38 Pomeroy Street, Allston, MA 02134
+        </contactinfo>
+        <profile>Boston-based label run by Mike Walsh, Matthew Sordillo, and [a=Francis Englehardt].</profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.ritualrecordings.com</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="15" type="primary" uri="http://api.discogs.com/image/L-65-001.gif"
+                   uri150="http://api.discogs.com/image/L-150-65-001.gif" width="106"/>
+        </images>
+        <id>65</id>
+        <name>Airtight</name>
+        <contactinfo>email: info@airtightrecordings.com</contactinfo>
+        <profile>Sublabel of Hooj Choons</profile>
+        <parentLabel>Hooj Choons</parentLabel>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.airtight-recordings.com/</url>
+            <url>http://groups.myspace.com/airtight</url>
+            <url>http://www.facebook.com/group.php?gid=13612814046</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="60" type="primary" uri="http://api.discogs.com/image/L-66-001.gif"
+                   uri150="http://api.discogs.com/image/L-150-66-001.gif" width="80"/>
+        </images>
+        <id>66</id>
+        <name>Pagan</name>
+        <contactinfo>Pagan Records
+            1 Water Lane
+            Camden Town
+            London, UK
+            NW1 8NZ
+            Tel: 44 (0) 171 267 1101
+            Fax: 44 (0) 171 267 7466
+            E-mail: paganrecs@aol.com
+        </contactinfo>
+        <profile>House label from London, UK. American branch is [l=Pagan America].</profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://web.archive.org/web/20040413022131/http://www.paganrecords.com/</url>
+            <url>http://web.archive.org/web/20000816092701/www.ark21.com/pagan/</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="467" type="primary" uri="http://api.discogs.com/image/L-67-002.jpg"
+                   uri150="http://api.discogs.com/image/L-150-67-002.jpg" width="525"/>
+            <image height="178" type="secondary" uri="http://api.discogs.com/image/L-67-1229667736.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-67-1229667736.jpeg" width="200"/>
+        </images>
+        <id>67</id>
+        <name>MAW Records</name>
+        <contactinfo>Masters At Work Inc.
+            513 36th Street, Suite 2
+            Union City
+            NJ 07087
+            USA
+        </contactinfo>
+        <profile>[b]MAW[/b] stands for [b]M[/b]asters [b]A[/b]t [b]W[/b]ork Records.
+            New Jersey House label owned by 'Little' [a=Louie Vega] &amp; [a=Kenny "Dope" Gonzalez], a.k.a. the
+            [a=Masters At Work].
+        </profile>
+        <data_quality>Correct</data_quality>
+        <sublabels>
+            <label>Dopebrother Records</label>
+            <label>Kay-Dee Records</label>
+            <label>Kenlou Records</label>
+            <label>MAW Classic</label>
+            <label>Vega Records</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="50" type="primary" uri="http://api.discogs.com/image/L-68-1127785621.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-68-1127785621.jpeg" width="209"/>
+            <image height="323" type="secondary" uri="http://api.discogs.com/image/L-68-1236416367.png"
+                   uri150="http://api.discogs.com/image/L-150-68-1236416367.png" width="232"/>
+        </images>
+        <id>68</id>
+        <name>Residual Recordings</name>
+        <contactinfo>PO Box 12405
+            Columbus, Ohio 43212
+            614.294.4119 fax
+            info@residualrecordings.com
+        </contactinfo>
+        <profile>Titonton Duvante's label
+            Founded: Fall 1998
+            Location: Columbus, Ohio
+            Genre: Electronic
+        </profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.residualrecordings.com</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="386" type="primary" uri="http://api.discogs.com/image/L-69-1265581388.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-69-1265581388.jpeg" width="386"/>
+            <image height="70" type="secondary" uri="http://api.discogs.com/image/L-69-001.gif"
+                   uri150="http://api.discogs.com/image/L-150-69-001.gif" width="67"/>
+            <image height="296" type="secondary" uri="http://api.discogs.com/image/L-69-002.bmp"
+                   uri150="http://api.discogs.com/image/L-150-69-002.bmp" width="300"/>
+            <image height="276" type="secondary" uri="http://api.discogs.com/image/L-69-1081599719.jpg"
+                   uri150="http://api.discogs.com/image/L-150-69-1081599719.jpg" width="246"/>
+            <image height="276" type="secondary" uri="http://api.discogs.com/image/L-69-1196636805.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-69-1196636805.jpeg" width="376"/>
+            <image height="108" type="secondary" uri="http://api.discogs.com/image/L-69-1227862718.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-69-1227862718.jpeg" width="467"/>
+        </images>
+        <id>69</id>
+        <name>Yoshitoshi Recordings</name>
+        <contactinfo>Phone: +1 202 338-3474
+            Email: info@yoshitoshi.com
+        </contactinfo>
+        <profile>[a=Deep Dish]'s label.
+            Sister labels: [l=Shinichi], [l=Yo!]
+        </profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.yoshitoshi.com/</url>
+            <url>http://www.yoshop.com/</url>
+            <url>http://www.myspace.com/yoshitoshirecordings</url>
+            <url>http://www.facebook.com/yoshitoshi.recordings</url>
+            <url>http://www.facebook.com/pages/Yoshitoshi-Recordings/47614331223</url>
+            <url>http://twitter.com/Yoshitoshi</url>
+            <url>http://www.youtube.com/YoshitoshiRecordings</url>
+            <url>http://soundcloud.com/y-1</url>
+        </urls>
+        <sublabels>
+            <label>Shinichi</label>
+            <label>Yo!</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="338" type="primary" uri="http://api.discogs.com/image/L-70-001.jpg"
+                   uri150="http://api.discogs.com/image/L-150-70-001.jpg" width="344"/>
+            <image height="588" type="secondary" uri="http://api.discogs.com/image/L-70-1200146366.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-70-1200146366.jpeg" width="598"/>
+        </images>
+        <id>70</id>
+        <name>7th City</name>
+        <profile>[b]Established:[/b] 1992
+            [b]Country:[/b] USA
+            [b]City:[/b] Detroit
+            [b]Founder:[/b] [a=Daniel Bell]
+            Manufactured and distributed by [l=Accelerate]. 7th City was created as a sublabel of [l=430 West].
+        </profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.myspace.com/seventhcityrecords</url>
+        </urls>
+        <sublabels>
+            <label>7th City Distribution</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="605" type="primary" uri="http://api.discogs.com/image/L-71-1314806134.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-71-1314806134.jpeg" width="596"/>
+            <image height="160" type="secondary" uri="http://api.discogs.com/image/L-71-1226386585.png"
+                   uri150="http://api.discogs.com/image/L-150-71-1226386585.png" width="366"/>
+        </images>
+        <id>71</id>
+        <name>Kool Groove Records</name>
+        <contactinfo>Manufactured and Distributed by:
+
+            M.T.I
+            37-20 30th Street
+            Long Island City. NY 11101
+            (718) 786-8473
+        </contactinfo>
+        <profile>House &amp; Dance Label run by [a=Reynald Deschamps]
+
+            In 1987-88, Reynald formed his own distribution company [l=M.T.I.] (comprising [l=Kool Groove Records],
+            [l=REY-D Records] and later USA ([l=United Sounds of America]). Distribution deal with [l=Apexton Records]
+            which included the label called [l=Underworld Records]
+        </profile>
+        <data_quality>Needs Vote</data_quality>
+    </label>
+    <label>
+        <images>
+            <image height="164" type="primary" uri="http://api.discogs.com/image/L-72-001.jpg"
+                   uri150="http://api.discogs.com/image/L-150-72-001.jpg" width="450"/>
+        </images>
+        <id>72</id>
+        <name>Dufflebag Recordings</name>
+        <contactinfo>Wally@dufflebagrecords.com</contactinfo>
+        <profile>Dufflebag Recordings was founded in 1997 by Wally Callerio. It has become a long time staple in
+            underground house music community featuring artist such as: Natural Rhythm, J.T. Donaldson, Lance DeSardi,
+            Cuban Pete, Guided Methods, Vibezelect, Vibe Travelers, Cory Wells, Jah Ques and Wally himself. Releasing
+            music on its own schedule, Dufflebag has always favored the quality of music over the quantity of releases.
+
+            This same mantra of quality over quantity has also been the focus of Wally’s own productions, an attribute
+            that is evident when listening to his body of work. With releases featured on Alluv Recordings, Aroma,
+            Classic, Electrik Soul, Magnetic, and Panhandle Records.
+
+            As Dufflebag moves into 2006 and steps up its release schedule, be on the look out for his newest
+            productions which feature collaborations with vocalists Jah Ques, Symphony, Jud Nester and Erin Carmen.
+        </profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.dufflebagrecords.com</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="167" type="secondary" uri="http://api.discogs.com/image/L-73-1195085342.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-73-1195085342.jpeg" width="200"/>
+            <image height="400" type="secondary" uri="http://api.discogs.com/image/L-73-1199876437.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-73-1199876437.jpeg" width="400"/>
+            <image height="231" type="secondary" uri="http://api.discogs.com/image/L-73-1199876460.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-73-1199876460.jpeg" width="278"/>
+        </images>
+        <id>73</id>
+        <name>Ferox Records</name>
+        <contactinfo>info@feroxrecords.com</contactinfo>
+        <profile>Ferox Records is the label of producer and DJ Russ Gabriel. Running since 1993, Ferox took an immediate
+            stance at the forefront of U.K. techno. After a long break, 2007 sees the return of Ferox with new music
+            arriving after the summer.
+        </profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.feroxrecords.com</url>
+            <url>http://www.myspace.com/feroxrecords</url>
+        </urls>
+        <sublabels>
+            <label>Berlin Records (2)</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="161" type="primary" uri="http://api.discogs.com/image/L-74-001.gif"
+                   uri150="http://api.discogs.com/image/L-150-74-001.gif" width="150"/>
+        </images>
+        <id>74</id>
+        <name>Pschent</name>
+        <contactinfo>Overground house
+            3 cité de l'ameublement
+            75011 Paris
+            France
+            Tel (33) 01 43 72 01 15
+            Fax (33) 01 43 72 01 16
+            Infoline (33) 01 43 72 85 85
+            e-mail: pschent@pschent.fr
+        </contactinfo>
+        <profile>[b]Important notice :
+            All Pschent releases with a catalogue number like 3###### MUST be entered under the [l=Wagram] label.
+            They are licensed to [l=Wagram].[/b]
+        </profile>
+        <parentLabel>Wagram Music S.A.</parentLabel>
+        <data_quality>Needs Vote</data_quality>
+        <urls>
+            <url>http://www.pschent.fr</url>
+            <url>http://www.facebook.com/pschentmusic</url>
+            <url>http://twitter.com/pschent</url>
+            <url>http://soundcloud.com/pschent</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="60" type="primary" uri="http://api.discogs.com/image/L-75-001.jpg"
+                   uri150="http://api.discogs.com/image/L-150-75-001.jpg" width="109"/>
+        </images>
+        <id>75</id>
+        <name>Tweekin Records</name>
+        <contactinfo>TWEEKIN RECORDS
+            593 Haight St.
+            San Francisco CA 94117
+            USA
+
+            phone: (415)626-6995
+            fax: (415)626-5206
+            email: info@tweekin.com
+        </contactinfo>
+        <profile>House label from San Francisco, CA, USA.</profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.tweekin.com</url>
+        </urls>
+        <sublabels>
+            <label>Next Of Kin</label>
+            <label>Synergize Communications</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="39" type="primary" uri="http://api.discogs.com/image/L-76-1098875700.jpg"
+                   uri150="http://api.discogs.com/image/L-150-76-1098875700.jpg" width="150"/>
+            <image height="548" type="secondary" uri="http://api.discogs.com/image/L-76-1203959867.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-76-1203959867.jpeg" width="600"/>
+            <image height="125" type="secondary" uri="http://api.discogs.com/image/L-76-1262937924.png"
+                   uri150="http://api.discogs.com/image/L-150-76-1262937924.png" width="254"/>
+            <image height="136" type="secondary" uri="http://api.discogs.com/image/L-76-1262937950.png"
+                   uri150="http://api.discogs.com/image/L-150-76-1262937950.png" width="384"/>
+            <image height="134" type="secondary" uri="http://api.discogs.com/image/L-76-1262937965.png"
+                   uri150="http://api.discogs.com/image/L-150-76-1262937965.png" width="318"/>
+        </images>
+        <id>76</id>
+        <name>Kaos Records</name>
+        <contactinfo>Avenida dos Bombeiros Voluntários
+            1675 Pontinha - Portugal
+            promo@kaosrecords.pt
+            Tel: +351 214789371 Fax: +351 214789370
+        </contactinfo>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.myspace.com/kaosrecordsportugal</url>
+        </urls>
+        <sublabels>
+            <label>Free Recordings</label>
+            <label>Fuga Records (2)</label>
+            <label>Funktástica Records</label>
+            <label>Plastika (2)</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="113" type="secondary" uri="http://api.discogs.com/image/L-77-1106668843.gif"
+                   uri150="http://api.discogs.com/image/L-150-77-1106668843.gif" width="125"/>
+        </images>
+        <id>77</id>
+        <name>Elypsia</name>
+        <contactinfo>Elypsia Records - 1030 Brussels - Belgium
+
+        </contactinfo>
+        <profile>Elypsia Records, a Brussels-based record label founded in 1995 which focusses on bringing innovative,
+            groundbreaking electronic dance music.
+
+        </profile>
+        <data_quality>Needs Vote</data_quality>
+        <urls>
+            <url>http://www.facebook.com/elypsiarecords</url>
+        </urls>
+    </label>
+    <label>
+        <id>78</id>
+        <name>Obsession Music</name>
+        <profile>French deep house label from the 90s
+            Set up in Marseille by DJ Paul and friends
+        </profile>
+        <data_quality>Correct</data_quality>
+    </label>
+    <label>
+        <id>79</id>
+        <name>V2 Records, Inc.</name>
+        <profile>[b]Company[/b]
+
+            U.S. branch of [l=V2 Music Ltd.] based in the U.K.
+
+            [b]Note:[/b] For the label please use &gt; [l=V2] or [l=V2 Records] depending on the logo shown on the
+            release.
+
+        </profile>
+        <parentLabel>Universal Music Group</parentLabel>
+        <data_quality>Needs Vote</data_quality>
+        <urls>
+            <url>http://www.myspace.com/v2records</url>
+        </urls>
+        <sublabels>
+            <label>Big Cat UK Records</label>
+            <label>Fania Records</label>
+            <label>MTA</label>
+            <label>V2 Greece</label>
+            <label>V2 Music France</label>
+            <label>V2 Music Scandinavia AB</label>
+            <label>V2 Records Benelux</label>
+            <label>V2 Records Japan Inc.</label>
+            <label>V2 Records Srl</label>
+            <label>V2TV</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="242" type="primary" uri="http://api.discogs.com/image/L-80-001.gif"
+                   uri150="http://api.discogs.com/image/L-150-80-001.gif" width="357"/>
+        </images>
+        <id>80</id>
+        <name>Lumi Records</name>
+        <contactinfo>Lumi Records
+            Tarkk'ampujankatu 10 A29
+            FI-00150 Helsinki
+            FINLAND
+
+            Phone &amp;amp; Fax +358-9-622 1003
+
+            info@lumirecords.com
+        </contactinfo>
+        <profile>Lumi was founded by Jori Hulkkonen, Jukka Hautamäki and Ari Ruokamo back in 1993. Between the years
+            1993-1995 fellas put out the 3 infamous vinyl compilations including tracks from various local finnish
+            artists. After these unforgettable and remarkable musical milestones guys decided to take a breath for a
+            while. In 1999 Ari restarted the label.
+        </profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.lumirecords.com/</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="200" type="secondary" uri="http://api.discogs.com/image/L-81-1137171596.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-81-1137171596.jpeg" width="200"/>
+        </images>
+        <id>81</id>
+        <name>Mother Tongue</name>
+        <contactinfo>djhush@growroomrecords.com</contactinfo>
+        <data_quality>Correct</data_quality>
+    </label>
+    <label>
+        <images>
+            <image height="369" type="primary" uri="http://api.discogs.com/image/L-82-1234797309.png"
+                   uri150="http://api.discogs.com/image/L-150-82-1234797309.png" width="444"/>
+            <image height="132" type="secondary" uri="http://api.discogs.com/image/L-82-1234797321.png"
+                   uri150="http://api.discogs.com/image/L-150-82-1234797321.png" width="431"/>
+            <image height="152" type="secondary" uri="http://api.discogs.com/image/L-82-1234797333.png"
+                   uri150="http://api.discogs.com/image/L-150-82-1234797333.png" width="491"/>
+            <image height="148" type="secondary" uri="http://api.discogs.com/image/L-82-1234797411.png"
+                   uri150="http://api.discogs.com/image/L-150-82-1234797411.png" width="394"/>
+            <image height="337" type="secondary" uri="http://api.discogs.com/image/L-82-1234797427.png"
+                   uri150="http://api.discogs.com/image/L-150-82-1234797427.png" width="455"/>
+        </images>
+        <id>82</id>
+        <name>83 West Records</name>
+        <contactinfo>83 West Records / Camouflage Recordings
+            2 College Street, Ste.206
+            Toronto, Ontario
+            M5G 1K3
+            CANADA
+        </contactinfo>
+        <profile>House, Deep House label from Toronto, Canada. Also written as Eighty Three West Records.</profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.myspace.com/83west</url>
+        </urls>
+        <sublabels>
+            <label>Camouflage Recordings</label>
+        </sublabels>
+    </label>
+    <label>
+        <id>83</id>
+        <name>SuperBra</name>
+        <contactinfo>Superbra
+            c/o Riesen, Stefan &amp; Vicky
+            Gantrischstrasse 10
+            CH-3006 Bern / Switzerland
+
+            phone/fax: ++41 31 351 99 92
+            e-mail: phont@bluewin.ch
+        </contactinfo>
+        <profile>Superbra covers the more tech-house side of music and is the sisterlabel of [l=Phont Music] (both
+            distributed worldwide by prime/london).
+            Managed by [a=Stefan Riesen].
+        </profile>
+        <data_quality>Correct</data_quality>
+    </label>
+    <label>
+        <id>84</id>
+        <name>Strive</name>
+        <contactinfo>Defunct?
+
+            Fax: +46-8-165872
+            E-mail: info@strivemusic.com
+        </contactinfo>
+        <parentLabel>Tronic</parentLabel>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.strivemusic.com</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="100" type="primary" uri="http://api.discogs.com/image/L-85-1133285847.png"
+                   uri150="http://api.discogs.com/image/L-150-85-1133285847.png" width="100"/>
+            <image height="60" type="secondary" uri="http://api.discogs.com/image/L-85-001.gif"
+                   uri150="http://api.discogs.com/image/L-150-85-001.gif" width="60"/>
+        </images>
+        <id>85</id>
+        <name>Earth</name>
+        <contactinfo>The Good Looking Organisation,
+            84 Queens Road,
+            Watford,
+            Herts WD17 2LA
+            UK
+
+            Phone: +44(0) 1923 690 700
+        </contactinfo>
+        <profile>A division of LTJ Bukem's Good Looking stable.</profile>
+        <parentLabel>Good Looking Records</parentLabel>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.goodlooking.org/</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="600" type="primary" uri="http://api.discogs.com/image/L-86-1231764316.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-86-1231764316.jpeg" width="600"/>
+            <image height="60" type="secondary" uri="http://api.discogs.com/image/L-86-1200351607.gif"
+                   uri150="http://api.discogs.com/image/L-150-86-1200351607.gif" width="464"/>
+            <image height="147" type="secondary" uri="http://api.discogs.com/image/L-86-002.gif"
+                   uri150="http://api.discogs.com/image/L-150-86-002.gif" width="150"/>
+            <image height="600" type="secondary" uri="http://api.discogs.com/image/L-86-1309891474.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-86-1309891474.jpeg" width="598"/>
+        </images>
+        <id>86</id>
+        <name>Compost Records</name>
+        <contactinfo>Haager Str. 9
+            81671 München
+            Germany
+
+            phone: +49 89 65 11 48 00 / +49 89 65 11 48 01
+            fax: +49 89 65 11 48 02
+            email: info@compost-rec.com
+        </contactinfo>
+        <profile>Electronic label, based in Munich, and founded by DJ [a=Michael Reinboth] in 1994.
+
+            Often originally associated as a club jazz label, that accounts for only a percentage of the music they have
+            actually released. They are better known more recently for the full spectrum of sounds they release, with
+            some of the finest electronic and non-electonic club music available. From house to disco, triphop to
+            techno, jazz to downbeat; you'll find most sounds appearing somewhere on either the main Compost Records
+            label, or appearing on one or more of the other five sublabels currently run.
+
+            Big names in the electronic scene —for example [a=Moodymann], [a=Carl Craig], [a=Laurent Garnier],
+            [a=Masters At Work], [a=Âme], [a=Dixon], [a=Henrik Schwarz], [a=Kruder &amp; Dorfmeister], et al— have
+            either contributed tracks of their own, remixes, or both. Furthermore, many fairly unknown yet talented
+            smaller producers have also had their break on the label.
+
+            Tracks from both sources can often be found on one of the many compilations the label releases. Series like
+            "Future Sound Of Jazz" (currently at volume 11), "Partykeller" (2 volumes), or "Elaste" (2 volumes), and
+            some others, have helped the label achieve cult status for music collectors around the world.
+
+            So far the label has released more than 350 releases, around 80 artist albums, and done so across six
+            labels.
+
+            Labelcode: LC 2518/LC 02518.
+        </profile>
+        <data_quality>Needs Vote</data_quality>
+        <urls>
+            <url>http://www.compost-records.com</url>
+            <url>http://www.facebook.com/compostrecords</url>
+            <url>http://www.myspace.com/compostrecords</url>
+            <url>http://twitter.com/CompostRecords</url>
+        </urls>
+        <sublabels>
+            <label>Angora Steel</label>
+            <label>Compose Records</label>
+            <label>Compost Black Label</label>
+            <label>Compost Disco</label>
+            <label>Compute</label>
+            <label>Derwin Recordings</label>
+            <label>Drumpoet Community</label>
+            <label>Jazzanova Compost Records (JCR)</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="40" type="primary" uri="http://api.discogs.com/image/L-87-1142431000.png"
+                   uri150="http://api.discogs.com/image/L-150-87-1142431000.png" width="158"/>
+            <image height="184" type="secondary" uri="http://api.discogs.com/image/L-87-1256620713.png"
+                   uri150="http://api.discogs.com/image/L-150-87-1256620713.png" width="287"/>
+            <image height="150" type="secondary" uri="http://api.discogs.com/image/L-87-1081517175.jpg"
+                   uri150="http://api.discogs.com/image/L-150-87-1081517175.jpg" width="150"/>
+        </images>
+        <id>87</id>
+        <name>Freerange Records</name>
+        <contactinfo>Freerange Records
+            P.O. Box 52106
+            London E9 7WX
+            UK
+
+            Tel/Fax: +44 (0)20 8533 8100
+            Email: info@freerangerecords.co.uk
+        </contactinfo>
+        <profile>[b]LC 12831[/b]</profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.freerangerecords.co.uk</url>
+            <url>http://www.myspace.com/freerangerecordsuk</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="255" type="primary" uri="http://api.discogs.com/image/L-88-1294178760.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-88-1294178760.jpeg" width="587"/>
+            <image height="41" type="secondary" uri="http://api.discogs.com/image/L-88-001.gif"
+                   uri150="http://api.discogs.com/image/L-150-88-001.gif" width="150"/>
+            <image height="82" type="secondary" uri="http://api.discogs.com/image/L-88-1243861295.png"
+                   uri150="http://api.discogs.com/image/L-150-88-1243861295.png" width="291"/>
+        </images>
+        <id>88</id>
+        <name>Nite Grooves</name>
+        <contactinfo>BPM King Street Sounds / Nite Grooves
+            115 W. 30th Street Suite 306
+            New York, N.Y. 10001
+            USA
+
+            Phone: (212) 594-3737
+            Fax: (212) 594-3636
+            Email: info@kingstreetsounds.com
+        </contactinfo>
+        <profile>Nite Grooves / BPM King Street Sounds is owned and distributed by Hi's Production USA, Inc.</profile>
+        <parentLabel>Hi's Production USA, Inc.</parentLabel>
+        <data_quality>Needs Vote</data_quality>
+        <urls>
+            <url>http://www.kingstreetsounds.com/</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="194" type="secondary" uri="http://api.discogs.com/image/L-89-1168073488.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-89-1168073488.jpeg" width="300"/>
+        </images>
+        <id>89</id>
+        <name>Under The Counter</name>
+        <contactinfo>The Angel Building,
+            Glasgow, G51 1LE. UK
+            info@underthecounter.co.uk
+            Phone: +44(0)141 420 2046
+            Fax: +44(0)141 420 3386
+        </contactinfo>
+        <data_quality>Needs Vote</data_quality>
+    </label>
+    <label>
+        <images>
+            <image height="59" type="primary" uri="http://api.discogs.com/image/L-91-001.gif"
+                   uri150="http://api.discogs.com/image/L-150-91-001.gif" width="231"/>
+        </images>
+        <id>91</id>
+        <name>Panhandle Records</name>
+        <profile>San Jose / San Francisco-based house label. Now defunct.</profile>
+        <data_quality>Correct</data_quality>
+    </label>
+    <label>
+        <id>92</id>
+        <name>Taka</name>
+        <profile>Subdivision techno tribe of the french label Chronobrain.</profile>
+        <parentLabel>Chronobrain</parentLabel>
+        <data_quality>Correct</data_quality>
+    </label>
+    <label>
+        <images>
+            <image height="62" type="primary" uri="http://api.discogs.com/image/L-93-1169922392.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-93-1169922392.jpeg" width="150"/>
+            <image height="205" type="secondary" uri="http://api.discogs.com/image/L-93-1266848921.png"
+                   uri150="http://api.discogs.com/image/L-150-93-1266848921.png" width="275"/>
+        </images>
+        <id>93</id>
+        <name>Alola</name>
+        <contactinfo>Info@alola.co.uk
+            jon@alola.co.uk
+        </contactinfo>
+        <profile>Alola records was created by Omid "16B" Nourizadeh, as a musical journey throughout the years, going as
+            far back as 1994 when Omid started it from his bedroom studio still living at his parents at only 19 years
+            old.
+            From the range of records Omid made himself through to multiple artists, alola has become an expression of
+            love for proper HOUSE music..
+            Regular Home to artists like Charles webster, Kevin McKay, Demi, Nav, Mr C, Pete Moss, Vince Watson,
+            Echomen, Anthony Teasdale, Amin Edge, Trevor Loveys, Idjut Boys, DJ Q, Sultan &amp; Ned Shepard, Pop out and
+            play, House of 909, Nacho Marco, Remote Control, YMC, Kevin Beber, Mode 2 and Omid himself.
+            Alola has been releasing its own blend of Lush, Deep and Hypnotic House music ever since with a little break
+            over the years ...x
+        </profile>
+        <data_quality>Needs Vote</data_quality>
+        <urls>
+            <url>http://web.archive.org/web/20060827171111/www.alola.co.uk</url>
+        </urls>
+        <sublabels>
+            <label>Disclosure</label>
+        </sublabels>
+    </label>
+    <label>
+        <id>94</id>
+        <name>Fiji Recordings</name>
+        <parentLabel>UCMG New York</parentLabel>
+        <data_quality>Correct</data_quality>
+    </label>
+    <label>
+        <images>
+            <image height="37" type="primary" uri="http://api.discogs.com/image/L-95-002.jpg"
+                   uri150="http://api.discogs.com/image/L-150-95-002.jpg" width="259"/>
+            <image height="100" type="secondary" uri="http://api.discogs.com/image/L-95-003.jpg"
+                   uri150="http://api.discogs.com/image/L-150-95-003.jpg" width="150"/>
+            <image height="55" type="secondary" uri="http://api.discogs.com/image/L-95-004.gif"
+                   uri150="http://api.discogs.com/image/L-150-95-004.gif" width="235"/>
+            <image height="300" type="secondary" uri="http://api.discogs.com/image/L-95-1146933234.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-95-1146933234.jpeg" width="300"/>
+            <image height="107" type="secondary" uri="http://api.discogs.com/image/L-95-1263015322.png"
+                   uri150="http://api.discogs.com/image/L-150-95-1263015322.png" width="212"/>
+            <image height="180" type="secondary" uri="http://api.discogs.com/image/L-95-1263015336.png"
+                   uri150="http://api.discogs.com/image/L-150-95-1263015336.png" width="337"/>
+        </images>
+        <id>95</id>
+        <name>Guidance Recordings</name>
+        <contactinfo>Mailing address:
+
+            Guidance Recordings, Inc.
+            160 N. Halsted 2nd floor
+            Chicago, IL 60661
+            USA
+
+            Phone: 312.226.8387
+            Fax: 312.226.1343
+
+            Ivan (ivanp@33rpm.com) - for any licensing requests.
+            Rob (robk@33rpm.com) - for submission of any demo material, distribution questions.
+            Gary (garyguy@33rpm.com) - for retail promotions.
+            Tobias (tobias@33rpm.com) -where and how to buy records.
+            Sid (sid@33rpm.com) - any other questions.
+        </contactinfo>
+        <parentLabel>Guidance Recordings, Inc.</parentLabel>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.33rpm.com</url>
+        </urls>
+        <sublabels>
+            <label>33rpm</label>
+            <label>Chord 44 Records</label>
+            <label>Crucial Sounds</label>
+            <label>Subtitled Records</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="47" type="primary" uri="http://api.discogs.com/image/L-96-001.png"
+                   uri150="http://api.discogs.com/image/L-150-96-001.png" width="149"/>
+            <image height="298" type="secondary" uri="http://api.discogs.com/image/L-96-002.jpg"
+                   uri150="http://api.discogs.com/image/L-150-96-002.jpg" width="298"/>
+        </images>
+        <id>96</id>
+        <name>Stickman Records</name>
+        <contactinfo>Stickman Records
+            8272A Pascal Gagnon
+            Montreal, Quebec
+            H1P 1Y4, Canada
+            T: + 514.327.7669
+            F: + 514.327.8800
+            E: info@premiermuzik.com
+        </contactinfo>
+        <profile>Canadian House-label.</profile>
+        <parentLabel>Premier Muzik International Corp.</parentLabel>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.stickmanrecords.com</url>
+            <url>http://www.premiermuzik.com</url>
+        </urls>
+        <sublabels>
+            <label>Placebo Recordings</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="600" type="primary" uri="http://api.discogs.com/image/L-r_97-001.jpg"
+                   uri150="http://api.discogs.com/image/L-150-r_97-001.jpg" width="349"/>
+            <image height="600" type="secondary" uri="http://api.discogs.com/image/L-97-1363659201-6009.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-97-1363659201-6009.jpeg" width="409"/>
+        </images>
+        <id>97</id>
+        <name>Moods &amp; Grooves</name>
+        <contactinfo>+1 313 444-0050 tel
+            PO Box 47366
+            Oak Park, MI 48237
+            info@moodsandgrooves.com
+        </contactinfo>
+        <profile>Moods &amp; Grooves Records
+            Detroit label run by [a=Mike Grant].
+        </profile>
+        <data_quality>Needs Vote</data_quality>
+        <urls>
+            <url>http://www.moodsandgrooves.com/</url>
+            <url>http://big50entertainment.com/</url>
+            <url>https://plus.google.com/u/0/b/109876869005956179508/109876869005956179508/posts</url>
+            <url>http://www.facebook.com/pages/Moods-Grooves-Records/54465188899</url>
+            <url>http://www.myspace.com/moodsngrooves</url>
+        </urls>
+        <sublabels>
+            <label>Afrosyntrix</label>
+            <label>End to End</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="300" type="primary" uri="http://api.discogs.com/image/L-98-1352288305-6987.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-98-1352288305-6987.jpeg" width="300"/>
+        </images>
+        <id>98</id>
+        <name>Defected</name>
+        <contactinfo>Defected Records
+            8 Charterhouse Buildings
+            Goswell Road
+            London
+            EC1M 7AN
+            United Kingdom
+
+            TEL: +44 (0) 207 549 2970
+            FAX: +44 (0) 207 250 0449
+
+            A&amp;R Director Simon Dunmore: james@defected.com
+            Label Manager Kieran Mansfield: kieran@defected.com
+            Press &amp; PR Manager Toni Tambourine: tonit@defected.com
+        </contactinfo>
+        <profile>Defected Records is a British record label influenced by US house. It was established by [a=Simon
+            Dunmore] (previously the manager of the old AM:PM label) and Janet Bell in 1999. Having released records
+            from the likes of Ministers De-La Funk, Hatiras and Bob Sinclar, Defected has gained recognition the world
+            over for it's dedication to the house and garage music industry.
+        </profile>
+        <data_quality>Needs Vote</data_quality>
+        <urls>
+            <url>http://www.Defected.com/</url>
+            <url>http://www.myspace.com/defectedinthehouse</url>
+            <url>http://www.facebook.com/DefectedInTheHouse</url>
+            <url>http://www.twitter.com/defectedrecords</url>
+            <url>http://www.soundcloud.com/defectedrecords</url>
+            <url>http://www.soundcloud.com/defectedradio</url>
+            <url>http://www.youtube.com/user/DefectedMusic?feature=chclk</url>
+        </urls>
+        <sublabels>
+            <label>4th Floor Records</label>
+            <label>Azuli Records</label>
+            <label>Bargrooves</label>
+            <label>Code Red Recordings</label>
+            <label>Cyphon</label>
+            <label>DFTD</label>
+            <label>Fluential</label>
+            <label>ITH Records</label>
+            <label>M (4)</label>
+            <label>Phazing Records</label>
+            <label>Shifted Music</label>
+            <label>Size Records</label>
+            <label>Soul Heaven Records</label>
+            <label>Spectrum Records</label>
+            <label>The Sound Of Defected</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="190" type="primary" uri="http://api.discogs.com/image/L-99-1233586740.png"
+                   uri150="http://api.discogs.com/image/L-150-99-1233586740.png" width="186"/>
+            <image height="203" type="secondary" uri="http://api.discogs.com/image/L-99-1233586754.png"
+                   uri150="http://api.discogs.com/image/L-150-99-1233586754.png" width="544"/>
+        </images>
+        <id>99</id>
+        <name>Swayzak Recordings</name>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.swayzak.com</url>
+            <url>http://www.myspace.com/swayzakrecordings</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="144" type="secondary" uri="http://api.discogs.com/image/L-100-1197223451.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-100-1197223451.jpeg" width="150"/>
+        </images>
+        <id>100</id>
+        <name>Distant Music</name>
+        <contactinfo>208 W.29th St.
+            Suite 501
+            New York
+            NY 10001
+            USA
+
+            Tel: 1-212-868-2998
+            Fax: 1-212-868-1073
+        </contactinfo>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.distantusa.com/</url>
+            <url>http://www.myspace.com/joncutlerdistantmusic</url>
+        </urls>
+        <sublabels>
+            <label>Faze Trax</label>
+            <label>Remedie</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="90" type="primary" uri="http://api.discogs.com/image/L-101-001.gif"
+                   uri150="http://api.discogs.com/image/L-150-101-001.gif" width="321"/>
+        </images>
+        <id>101</id>
+        <name>Shaboom Records</name>
+        <contactinfo>Shaboom Records,
+            PO BOX 38,
+            South Shore,
+            Blackpool,
+            FY1 6GH
+            TEL 0044 1253 620039
+            FAX 0044 1253 620756
+        </contactinfo>
+        <profile>Blackpool's Internationally Acclaimed House Label. Filtered, Funk, Disco House Vibe. Sub-labels include
+            [l=Blaktrax] and [l=Shaboom America].
+        </profile>
+        <data_quality>Correct</data_quality>
+        <sublabels>
+            <label>Blaktrax</label>
+            <label>Shaboom America</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="198" type="primary" uri="http://api.discogs.com/image/L-102-1228759062.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-102-1228759062.jpeg" width="285"/>
+            <image height="191" type="secondary" uri="http://api.discogs.com/image/L-102-1199979097.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-102-1199979097.jpeg" width="158"/>
+        </images>
+        <id>102</id>
+        <name>Spymania</name>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.spymania.com</url>
+        </urls>
+    </label>
+    <label>
+        <id>104</id>
+        <name>Nothings Clear</name>
+        <data_quality>Correct</data_quality>
+    </label>
+    <label>
+        <images>
+            <image height="148" type="primary" uri="http://api.discogs.com/image/L-105-1101344828.gif"
+                   uri150="http://api.discogs.com/image/L-150-105-1101344828.gif" width="600"/>
+            <image height="154" type="secondary" uri="http://api.discogs.com/image/L-105-1298050614.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-105-1298050614.jpeg" width="327"/>
+            <image height="33" type="secondary" uri="http://api.discogs.com/image/L-105-1110990588.jpg"
+                   uri150="http://api.discogs.com/image/L-150-105-1110990588.jpg" width="150"/>
+            <image height="175" type="secondary" uri="http://api.discogs.com/image/L-105-001.jpg"
+                   uri150="http://api.discogs.com/image/L-150-105-001.jpg" width="250"/>
+        </images>
+        <id>105</id>
+        <name>Skam</name>
+        <contactinfo>SKAM RECORDS
+            po box 76
+            Manchester, m45 7xw.
+            UK.
+            email: skam@skam.co.uk
+        </contactinfo>
+        <profile>Established by [a=Andy Maddocks], based in Manchester.</profile>
+        <data_quality>Needs Vote</data_quality>
+        <urls>
+            <url>http://www.skam.co.uk</url>
+            <url>http://www.bhatoptics.com</url>
+            <url>http://www.myspace.com/skamsmak</url>
+            <url>http://www.myspace.com/skamrecordsofficial</url>
+            <url>http://www.facebook.com/SkamRecords</url>
+        </urls>
+        <sublabels>
+            <label>30mil Recordings</label>
+            <label>33</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="121" type="primary" uri="http://api.discogs.com/image/L-106-001.jpg"
+                   uri150="http://api.discogs.com/image/L-150-106-001.jpg" width="150"/>
+        </images>
+        <id>106</id>
+        <name>Lo Recordings</name>
+        <contactinfo>Email: info@hub100.com
+            Tel: +44 (0)20 7613 1813
+        </contactinfo>
+        <profile>'Purveyors of high quality experimental music since 1995'.
+
+            Lo Recordings has been responsible for an innovative catalogue of music that has spanned everything from
+            house, easy listening, ambient, electronica, drum and bass, music concrete and country and western.
+
+            Their catalogue of over 50 releases includes recordings by Aphex Twin, Blur, Mike Flowers and Squarepusher
+            to name but a few. They were also responsible for 1998's 'Root' project which distributed 30 one-minute
+            guitar pieces by Thurston Moore of Sonic Youth amongst artists as diverse as David Bowie, Scanner, Gavin
+            Turk, Stereolab and Angela Bulloch resulting in an album (packaged in a hoover bag) and exhibition of epic
+            proportions.
+
+            Lo released music from the minimalism of Mileece to the new wave punk funk of The Chap as well as delving
+            into the mysteries of 70s library music they remain one of the UK's most consistently unusual labels.
+            Further releases include music from Red Snapper, Luke Vibert and Moog legend Jean Jacques Perrey.
+
+            'Resplendent in divergence' is a phrase that could have been made for them.
+        </profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.lorecordings.com</url>
+            <url>http://www.myspace.com/lorecordingsco</url>
+            <url>http://twitter.com/LoRecordings</url>
+        </urls>
+        <sublabels>
+            <label>Lo Editions</label>
+            <label>LoAF</label>
+            <label>LoEB</label>
+            <label>No Recordings</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="60" type="primary" uri="http://api.discogs.com/image/L-107-1298135654.gif"
+                   uri150="http://api.discogs.com/image/L-150-107-1298135654.gif" width="210"/>
+            <image height="93" type="secondary" uri="http://api.discogs.com/image/L-107-001.gif"
+                   uri150="http://api.discogs.com/image/L-150-107-001.gif" width="600"/>
+            <image height="113" type="secondary" uri="http://api.discogs.com/image/L-107-1233930987.png"
+                   uri150="http://api.discogs.com/image/L-150-107-1233930987.png" width="264"/>
+            <image height="386" type="secondary" uri="http://api.discogs.com/image/L-107-1232659479.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-107-1232659479.jpeg" width="600"/>
+            <image height="93" type="secondary" uri="http://api.discogs.com/image/L-107-1074882123.gif"
+                   uri150="http://api.discogs.com/image/L-150-107-1074882123.gif" width="600"/>
+            <image height="95" type="secondary" uri="http://api.discogs.com/image/L-107-1075447862.gif"
+                   uri150="http://api.discogs.com/image/L-150-107-1075447862.gif" width="400"/>
+            <image height="126" type="secondary" uri="http://api.discogs.com/image/L-107-003.jpg"
+                   uri150="http://api.discogs.com/image/L-150-107-003.jpg" width="595"/>
+            <image height="39" type="secondary" uri="http://api.discogs.com/image/L-107-002.jpg"
+                   uri150="http://api.discogs.com/image/L-150-107-002.jpg" width="177"/>
+        </images>
+        <id>107</id>
+        <name>Rephlex</name>
+        <contactinfo>[b]Rephlex[/b]
+            P.O. Box 86
+            Redruth TR15 9AL
+            UK
+
+            email: info@rephlex.com
+        </contactinfo>
+        <profile>Founded in 1991 by [a=Richard D. James] and [a=Grant Wilson-Claridge].</profile>
+        <data_quality>Needs Vote</data_quality>
+        <urls>
+            <url>http://www.rephlex.com</url>
+            <url>http://www.facebook.com/rephlexrecords</url>
+        </urls>
+        <sublabels>
+            <label>Men Records</label>
+            <label>Terra Recordings (3)</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="48" type="primary" uri="http://api.discogs.com/image/L-108-1266886647.gif"
+                   uri150="http://api.discogs.com/image/L-150-108-1266886647.gif" width="297"/>
+        </images>
+        <id>108</id>
+        <name>Schematic</name>
+        <contactinfo>i8takeshi@gmail.com</contactinfo>
+        <profile>From Wikipedia:
+            (http://en.wikipedia.org/wiki/Schematic_Records )
+
+            In 1995 Josh Kay &amp; Romulo Del Castillo released a series of records for the US major label Astralwerks
+            under the name Soul Oddity. In 1997 after a dispute with Astralwerks &amp; a successful release as Phoenecia
+            on Warp (record label), the duo founded Schematic Music Company, an electronic music label which would go on
+            to debut artists such as Richard Devine, Scott Herren (Prefuse73, Savath &amp; Savalas), Otto Von Schirach,
+            Push Button Objects, and collaborate with the likes of Matmos, Autechre, Jamie Lidell, Matthew Herbert, and
+            Glen Velez amongst many notable others.
+            Schematic's releases often feature striking covers by designers such as The Designers Republic, Friends With
+            You, AS1, Shawn Wolfe, Universal Everything, Graphic Havok, Keep Adding, and Logohoax.
+
+            Schematic artists:
+            Delarosa &amp; Asora
+            Richard Devine
+            Cayos
+            Din-ST
+            Dino Felipe
+            Finesse And Runway
+            Nick Forté
+            Hearts Of Darknesses
+            Jeswa
+            Kiyo
+            Joe Lentini
+            o9
+            Otto Von Schirach
+            Phoenecia
+            Jacque Polynice
+            Takeshi Muto
+            Glen Velez
+            Subjex
+            Badun
+            Ay Fast
+            Touane
+            DOS Tracks
+            Secret Frequency Crew
+            Shapeshifter
+            Jacque Polynice
+            Baby Kruger
+            Phlex
+            Roel Funcken
+            Juan Telway
+            Hologram
+            Tornado Horr
+            Valance Drakes
+            Avee Libretto
+            Crash Course In Science
+        </profile>
+        <data_quality>Needs Vote</data_quality>
+        <urls>
+            <url>http://www.schematic.net/</url>
+            <url>http://www.myspace.com/schemaland</url>
+            <url>http://www.facebook.com/pages/Schematic/49563769198</url>
+            <url>http://twitter.com/schematicmusic</url>
+            <url>http://schematicmusiccompany.bandcamp.com/</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="23" type="primary" uri="http://api.discogs.com/image/L-109-001.gif"
+                   uri150="http://api.discogs.com/image/L-150-109-001.gif" width="265"/>
+            <image height="221" type="primary" uri="http://api.discogs.com/image/L-109-1156759750.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-109-1156759750.jpeg" width="200"/>
+            <image height="201" type="secondary" uri="http://api.discogs.com/image/L-109-004.jpg"
+                   uri150="http://api.discogs.com/image/L-150-109-004.jpg" width="150"/>
+            <image height="176" type="secondary" uri="http://api.discogs.com/image/L-109-1101467919.jpg"
+                   uri150="http://api.discogs.com/image/L-150-109-1101467919.jpg" width="115"/>
+            <image height="274" type="secondary" uri="http://api.discogs.com/image/L-109-002.gif"
+                   uri150="http://api.discogs.com/image/L-150-109-002.gif" width="207"/>
+            <image height="449" type="secondary" uri="http://api.discogs.com/image/L-109-1145924461.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-109-1145924461.jpeg" width="392"/>
+        </images>
+        <id>109</id>
+        <name>Ninja Tune</name>
+        <contactinfo>Email: ninja@ninjatune.net
+            Fax: +44 (0)207 820 3434
+
+            Ninja Tune HQ
+            PO Box 4296
+            London, SE11 4WW, UK
+
+            Ninja Tune N. America:
+            6565 Sunset Blvd, #410
+            Los Angeles, CA 90028
+
+            Obsolete:
+            Ninja Tune North America:
+            1499 William, Suite #2
+            H3C 1R4, Montreal, Canada
+        </contactinfo>
+        <profile>Label Code: LC 12885
+            Ninja Tune is an independent record label that is based in London, England (with a satellite office in Los
+            Angeles for U.S/Canada business), created in 1990 by the duo known as [a=Coldcut]. Coldcut were pioneers of
+            the emerging hip-hop/electro scene in the eighties. Inspired by a visit to Japan, [a=Matt Black] &amp;
+            [a=Jonathan More] (Coldcut) primarily created Ninja Tune to act as a vehicle by which they could release
+            music of a more underground nature, free from the restraints placed on artists by major labels (the same
+            restraints that were put on them via their brief stints with [l=Arista] and [l=Big Life]).
+
+            The first four volumes of '[a=DJ Food] - Jazz Brakes', produced by Coldcut, were comprised of instrumental
+            hip-hop cuts. Key in the label's success was the constantly growing roster of very different sounding
+            artists.
+
+            With the musical and multi-media innovation of Black and More, the studio know-how and musical expertise of
+            all the artists, the graphic vision of [a=Openmind], and the sound business practices of the label managers
+            and employees, Ninja Tune has grown into a label that prides itself on producing quality music while serving
+            its artists in a way that no major label would.
+        </profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.ninjatune.net/</url>
+            <url>http://www.myspace.com/ninjatune</url>
+            <url>http://www.facebook.com/ninjatuneofficial</url>
+            <url>http://www.soundcloud.com/ninja-tune/</url>
+            <url>http://www.twitter.com/ninjatunehq</url>
+            <url>http://www.youtube.com/user/ninja000</url>
+        </urls>
+        <sublabels>
+            <label>Acid Ragga</label>
+            <label>Big Dada Recordings</label>
+            <label>Counter Records</label>
+            <label>Girls Music</label>
+            <label>Motion Audio</label>
+            <label>Ninja Tuna</label>
+            <label>Ninja Tune Licensing Sampler</label>
+            <label>Ninja Tune XX</label>
+            <label>Ntone</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="129" type="primary" uri="http://api.discogs.com/image/L-110-001.jpg"
+                   uri150="http://api.discogs.com/image/L-150-110-001.jpg" width="150"/>
+        </images>
+        <id>110</id>
+        <name>Worm Interface</name>
+        <contactinfo>contact: worm@ambientsoho.com
+            FAX: (UK) 0870 063 3737
+        </contactinfo>
+        <profile>Label from the Ambient Soho shop in London.</profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.worminterface.com/</url>
+        </urls>
+        <sublabels>
+            <label>Snake Eyes</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="700" type="primary" uri="http://api.discogs.com/image/L-111-1323613006.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-111-1323613006.jpeg" width="600"/>
+            <image height="205" type="secondary" uri="http://api.discogs.com/image/L-111-002.jpg"
+                   uri150="http://api.discogs.com/image/L-150-111-002.jpg" width="200"/>
+            <image height="207" type="secondary" uri="http://api.discogs.com/image/L-111-1230967854.png"
+                   uri150="http://api.discogs.com/image/L-150-111-1230967854.png" width="177"/>
+        </images>
+        <id>111</id>
+        <name>Mo Wax</name>
+        <profile>[a=James Lavelle]'s legendary "trip hop" label. Launched in 1992, defunct in 2002.
+            For copyrights issues use [l=Mo Wax Recordings]
+        </profile>
+        <parentLabel>Beggars Group</parentLabel>
+        <data_quality>Needs Vote</data_quality>
+        <urls>
+            <url>http://www.myspace.com/mowaxrecords</url>
+            <url>http://www.morewax.com</url>
+            <url>http://www.mowax21.com</url>
+        </urls>
+        <sublabels>
+            <label>Mo Wax Classics</label>
+            <label>Mo Wax Excursions</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="149" type="primary" uri="http://api.discogs.com/image/L-112-1258272545.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-112-1258272545.jpeg" width="600"/>
+        </images>
+        <id>112</id>
+        <name>Suburban Nightz</name>
+        <data_quality>Correct</data_quality>
+    </label>
+    <label>
+        <images>
+            <image height="100" type="primary" uri="http://api.discogs.com/image/L-113-1200164139.gif"
+                   uri150="http://api.discogs.com/image/L-150-113-1200164139.gif" width="363"/>
+            <image height="426" type="secondary" uri="http://api.discogs.com/image/L-113-1240551404.png"
+                   uri150="http://api.discogs.com/image/L-150-113-1240551404.png" width="395"/>
+            <image height="98" type="secondary" uri="http://api.discogs.com/image/L-113-1133438483.gif"
+                   uri150="http://api.discogs.com/image/L-150-113-1133438483.gif" width="108"/>
+            <image height="266" type="secondary" uri="http://api.discogs.com/image/L-113-1339394358-1279.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-113-1339394358-1279.jpeg" width="237"/>
+        </images>
+        <id>113</id>
+        <name>NovaMute</name>
+        <contactinfo>Mute Records
+            127 Charing Cross Road
+            London
+            WC2H 0EA
+        </contactinfo>
+        <profile>Techno and electronica label started with 12" releases in 1991.
+
+            Formerly displayed as [b]NovaMute[/b], it is now displayed as [b]novamute[/b] (see logos).
+
+            In the US the releases in the early 90s were released in partnership with [b][l=Tommy Boy Music][/b], and
+            feature a "NMCD" prefix on their catalog number. When Mute set up a stand-alone North American office in the
+            mid-90s, the numbering series continued in sequence with the prefix changed to "NovaMute".
+
+            [b]LC 5834[/b]
+        </profile>
+        <parentLabel>Mute Records Ltd.</parentLabel>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.novamute.com/</url>
+            <url>http://www.novamute.de/</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="175" type="secondary" uri="http://api.discogs.com/image/L-114-1179451577.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-114-1179451577.jpeg" width="150"/>
+        </images>
+        <id>114</id>
+        <name>Kif Recordings</name>
+        <contactinfo>KIF Recordings
+            9, rue Ganneron
+            75018 Paris
+            FRANCE
+
+            Tel: +33 1 449 005 45
+            Fax: +33 1 449 005 51
+
+            E-mail: kifmusic@free.fr
+        </contactinfo>
+        <profile>French label.</profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.myspace.com/kifrecords</url>
+        </urls>
+        <sublabels>
+            <label>KIF Records</label>
+            <label>KIF S.A.</label>
+            <label>Mélodie En Soul Sol</label>
+            <label>Trouble Men Trax</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="528" type="primary" uri="http://api.discogs.com/image/L-115-1353135809-9576.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-115-1353135809-9576.jpeg" width="600"/>
+        </images>
+        <id>115</id>
+        <name>Audio Couture</name>
+        <profile>Moving Shadow sublabel.
+            From cat# AC 001 on the releases always have 2 tracks. One track on side A, the other on side C.
+            From cat# AC 101 on the releases contain remixes.
+            From cat# AC 12001 on the releases are one-sided.
+            All releases have all the tracks in their release title.
+        </profile>
+        <parentLabel>Moving Shadow</parentLabel>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.movingshadow.com</url>
+        </urls>
+    </label>
+    <label>
+        <id>116</id>
+        <name>Cyba</name>
+        <data_quality>Correct</data_quality>
+    </label>
+    <label>
+        <images>
+            <image height="118" type="primary" uri="http://api.discogs.com/image/L-117-001.jpg"
+                   uri150="http://api.discogs.com/image/L-150-117-001.jpg" width="118"/>
+            <image height="133" type="secondary" uri="http://api.discogs.com/image/L-117-1196698527.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-117-1196698527.jpeg" width="600"/>
+        </images>
+        <id>117</id>
+        <name>Emotif Recordings</name>
+        <contactinfo>emotif recordings
+            PO BOX 16047
+            London
+            NW1 7ZH
+            Tel: +44 (0) 207 729 8030
+            Fax: +44 (0) 207 729 8131
+            Email: info@emotif.co.uk
+        </contactinfo>
+        <profile>Set up in September 1995 by the late [a=DJ Vini] &amp; Martin Love (part of the S.O.U.R family tree),
+            as an experimental Drum and Bass label.
+
+            [b]Related Label:[/b] [l=SOUR], [l=Simple Tings], [l=Botchit &amp; Scarper]
+        </profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.emotifrecords.co.uk</url>
+            <url>http://www.myspace.com/emotifrecordings</url>
+        </urls>
+        <sublabels>
+            <label>Double Zero</label>
+            <label>DZ Recordings (DZR)</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="147" type="primary" uri="http://api.discogs.com/image/L-118-001.png"
+                   uri150="http://api.discogs.com/image/L-150-118-001.png" width="150"/>
+        </images>
+        <id>118</id>
+        <name>Talkin' Loud</name>
+        <profile>Talkin' Loud was founded by DJ's [a=Gilles Peterson] and [a=Norman Jay] in 1990. The label's name was
+            based on Peterson's and [a=Patrick Forge]'s sunday afternoon club session "Talkin' Loud And Sayin' Somethin'
+            " —better known amoungst its patrons as simply "Dingwalls", which was the name of the venue at the time in
+            Camden, London— during the 1980's.
+
+            Gilles Peterson is no longer involved with the label, but is now involved in [l=Brownswood Recordings].
+
+            Recent versions of the original releases have been re-released by parent label Mercury under the [l=Talkin'
+            Loud Classics] branding.
+
+            LC 6521 / LC 06521.
+        </profile>
+        <parentLabel>Mercury</parentLabel>
+        <data_quality>Correct</data_quality>
+    </label>
+    <label>
+        <images>
+            <image height="120" type="secondary" uri="http://api.discogs.com/image/L-119-001.gif"
+                   uri150="http://api.discogs.com/image/L-150-119-001.gif" width="268"/>
+            <image height="75" type="secondary" uri="http://api.discogs.com/image/L-119-002.png"
+                   uri150="http://api.discogs.com/image/L-150-119-002.png" width="118"/>
+            <image height="224" type="secondary" uri="http://api.discogs.com/image/L-119-003.jpg"
+                   uri150="http://api.discogs.com/image/L-150-119-003.jpg" width="495"/>
+            <image height="500" type="primary" uri="http://api.discogs.com/image/L-119-004.jpg"
+                   uri150="http://api.discogs.com/image/L-150-119-004.jpg" width="500"/>
+            <image height="24" type="secondary" uri="http://api.discogs.com/image/L-119-1078863748.gif"
+                   uri150="http://api.discogs.com/image/L-150-119-1078863748.gif" width="170"/>
+        </images>
+        <id>119</id>
+        <name>Full Cycle Records</name>
+        <contactinfo>Full Cycle Records
+            PO Box 1235
+            Bristol BS99 250
+            United Kingdom
+
+            Tel. +44 (0117) 941 5824, Monday to Friday between 9 a.m.
+            and 5.30 p.m. (UK local time)
+            Fax. +44 (0117) 941 5823, anytime
+
+            info@fullcycle.co.uk
+        </contactinfo>
+        <profile>Bristol-based drum and bass label set up by Roni Size and friends, originally associated with WTP
+            (Where's The Party) Music, and previously known as Full Circle Records.
+        </profile>
+        <data_quality>Needs Vote</data_quality>
+        <sublabels>
+            <label>Dope Dragon</label>
+            <label>Full Circle Records</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="113" type="secondary" uri="http://api.discogs.com/image/L-120-1158510019.gif"
+                   uri150="http://api.discogs.com/image/L-150-120-1158510019.gif" width="600"/>
+        </images>
+        <id>120</id>
+        <name>Prototype Recordings</name>
+        <contactinfo>Tel: 0973 186019
+            Fax: 0181 695 0333
+        </contactinfo>
+        <profile>Grooverider's high profile label</profile>
+        <data_quality>Correct</data_quality>
+        <sublabels>
+            <label>Hard Step Records</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="100" type="primary" uri="http://api.discogs.com/image/L-121-001.jpg"
+                   uri150="http://api.discogs.com/image/L-150-121-001.jpg" width="100"/>
+        </images>
+        <id>121</id>
+        <name>New Identity Recordings</name>
+        <contactinfo>1st Floor
+            38 Charles Street
+            Leicester
+            LE1 1FB
+            UK
+
+            TEL: +44 (0) 116 2530048
+            -OR: +44 (0) 116 2510098
+            FAX: +44 (0) 116 2621080
+
+            EMAIL: PROMOTIONS@FORMRECS.DEMON.CO.UK
+        </contactinfo>
+        <parentLabel>Formation Records</parentLabel>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.formationrecords.com</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="100" type="secondary" uri="http://api.discogs.com/image/L-122-1164041184.png"
+                   uri150="http://api.discogs.com/image/L-150-122-1164041184.png" width="150"/>
+        </images>
+        <id>122</id>
+        <name>Tech Itch Recordings</name>
+        <contactinfo>P.O. Box 188 BS9 3YW Bristol - UK.
+            Phone: +44 7973213106 +44 7970703476
+            E-mail: info@techitch.com
+        </contactinfo>
+        <profile>Technical Itch's label.</profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.techitch.com</url>
+        </urls>
+        <sublabels>
+            <label>Penetration Records</label>
+            <label>Tech Itch Digital</label>
+            <label>Technical Itch Studios</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="136" type="secondary" uri="http://api.discogs.com/image/L-123-001.jpg"
+                   uri150="http://api.discogs.com/image/L-150-123-001.jpg" width="140"/>
+            <image height="186" type="primary" uri="http://api.discogs.com/image/L-123-1140810886.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-123-1140810886.jpeg" width="160"/>
+            <image height="400" type="secondary" uri="http://api.discogs.com/image/L-123-1215524786.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-123-1215524786.jpeg" width="290"/>
+            <image height="348" type="secondary" uri="http://api.discogs.com/image/L-123-002.jpg"
+                   uri150="http://api.discogs.com/image/L-150-123-002.jpg" width="350"/>
+        </images>
+        <id>123</id>
+        <name>Moving Shadow</name>
+        <contactinfo>17 St Annes Court
+            Soho
+            London
+            W1V 3AW
+            UK
+
+            Tel: +44 20 7734 6770 / +44 20 7734 6771
+
+            Email: info@movingshadow.com
+
+            (obsolete)
+        </contactinfo>
+        <profile>UK label run by [a=Rob Playford] originally from the small lounge of a house in Stevenage,
+            Hertfordshire, UK, before relocating to the second floor of the former [l218698] building.
+
+            Initially a Hardcore and Jungle label in the early 1990s, continuing to release Drum 'n' Bass until around
+            2008 when it ceased operation.
+
+            Label code: LC 5681
+        </profile>
+        <parentLabel>Moving Shadow Ltd.</parentLabel>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.movingshadow.com</url>
+        </urls>
+        <sublabels>
+            <label>Audio Couture</label>
+            <label>Label Is Red</label>
+            <label>Movingshadow Sampler Series</label>
+            <label>Re-Animate Recordings</label>
+            <label>Section 5</label>
+            <label>Shadow Cryptic</label>
+            <label>Two On One</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="80" type="primary" uri="http://api.discogs.com/image/L-124-001.gif"
+                   uri150="http://api.discogs.com/image/L-150-124-001.gif" width="80"/>
+            <image height="600" type="primary" uri="http://api.discogs.com/image/L-124-1196697719.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-124-1196697719.jpeg" width="600"/>
+            <image height="429" type="secondary" uri="http://api.discogs.com/image/L-124-1145866030.gif"
+                   uri150="http://api.discogs.com/image/L-150-124-1145866030.gif" width="460"/>
+        </images>
+        <id>124</id>
+        <name>Good Looking Records</name>
+        <contactinfo>Good Looking Records,
+            84 Queens Road,
+            Watford,
+            Herts WD17 2LA
+            UK
+
+            Phone:
+            +44(0) 1923 690 700
+        </contactinfo>
+        <profile>[a=LTJ Bukem]'s label.</profile>
+        <parentLabel>Good Looking Records Ltd.</parentLabel>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>https://www.goodlookingstore.com</url>
+            <url>http://www.myspace.com/goodlookingorganisation</url>
+            <url>http://www.myspace.com/goodlookingrecords</url>
+            <url>http://goodlookingrecords.blogspot.com</url>
+            <url>http://www.facebook.com/pages/LTJ-Bukem-goodlooking-records/11106339924</url>
+            <url>http://twitter.com/goodlooking_org</url>
+        </urls>
+        <sublabels>
+            <label>Ascendant Grooves</label>
+            <label>Blue Vinyl</label>
+            <label>Cookin' Records</label>
+            <label>Deep Rooted</label>
+            <label>Diverse Recordings (3)</label>
+            <label>Earth</label>
+            <label>Good Looking Moments</label>
+            <label>Logical Progression</label>
+            <label>Looking Good Records</label>
+            <label>Nexus Records</label>
+            <label>Points In Time</label>
+            <label>Producer</label>
+            <label>Progression Sessions</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="600" type="primary" uri="http://api.discogs.com/image/L-125-1183868842.gif"
+                   uri150="http://api.discogs.com/image/L-150-125-1183868842.gif" width="600"/>
+            <image height="206" type="secondary" uri="http://api.discogs.com/image/L-125-1179675043.gif"
+                   uri150="http://api.discogs.com/image/L-150-125-1179675043.gif" width="206"/>
+            <image height="432" type="secondary" uri="http://api.discogs.com/image/L-125-1161873523.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-125-1161873523.jpeg" width="432"/>
+            <image height="243" type="secondary" uri="http://api.discogs.com/image/L-125-1107383012.jpg"
+                   uri150="http://api.discogs.com/image/L-150-125-1107383012.jpg" width="600"/>
+            <image height="133" type="secondary" uri="http://api.discogs.com/image/L-125-1262967619.png"
+                   uri150="http://api.discogs.com/image/L-150-125-1262967619.png" width="222"/>
+        </images>
+        <id>125</id>
+        <name>Renegade Hardware</name>
+        <contactinfo>Tel/Fax: 0207 207 1221</contactinfo>
+        <profile>British Drum'n'Bass label run by Clayton Hines &amp; Mark Hill.
+            Originally founded in 1996 as part of the [l=TOV Music Group Ltd.], it became independent after TOV's
+            bankruptcy in 2007.
+            For licensing type credits please use [l=Renegade Hardware Music Ltd.]
+        </profile>
+        <parentLabel>Renegade Hardware Music Ltd.</parentLabel>
+        <data_quality>Needs Vote</data_quality>
+        <urls>
+            <url>http://www.renegadehardware.co.uk/</url>
+            <url>http://soundcloud.com/renegade-hardware</url>
+        </urls>
+        <sublabels>
+            <label>Armageddon (5)</label>
+            <label>Future Beats (2)</label>
+            <label>Paranoia (2)</label>
+            <label>The Four Elements</label>
+            <label>The Hardware Chronicles</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="283" type="primary" uri="http://api.discogs.com/image/L-126-1362231147-6546.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-126-1362231147-6546.jpeg" width="400"/>
+            <image height="150" type="secondary" uri="http://api.discogs.com/image/L-126-1296754322.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-126-1296754322.jpeg" width="150"/>
+            <image height="600" type="secondary" uri="http://api.discogs.com/image/L-126-1136415970.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-126-1136415970.jpeg" width="596"/>
+        </images>
+        <id>126</id>
+        <name>Creative Wax</name>
+        <profile>Started in 1992 by Pulse (Dance Conspiracy) and Jack Horner (Bad Influence). Early releases in were
+            predominately by label owner Pulse alongside the Wax Doctor with Alex Reece and Prof Stretch (Underwolves)
+            taking care of the engineering duties. The label also had various collaborations by Alex Reece And Wax
+            Doctor under names such as Fallen Angels and Unit One. Other notable names in the camp were The Underwolves
+            who went on to record for Ross Allen's Island Records imprint Blue and Compost Records. Tango who also
+            recorded with Pulse on the legendary Moving Shadow imprint, Justice another Moving shadow artist who now
+            runs his own Modern Urban Jazz label and finally Digital (Metalheadz). Creative Wax mixed up the influences
+            of Detroit techno and later Jazz to create some of the most innovative music in the Drum and Bass scene of
+            the 90's.
+        </profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://soundcloud.com/creative-wax-recordings</url>
+            <url>http://www.myspace.com/creativewaxrecordings</url>
+        </urls>
+        <sublabels>
+            <label>Radioactive Kids</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="600" type="primary" uri="http://api.discogs.com/image/L-127-1302081042.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-127-1302081042.jpeg" width="600"/>
+        </images>
+        <id>127</id>
+        <name>Source Direct Recordings</name>
+        <data_quality>Correct</data_quality>
+        <sublabels>
+            <label>Direct Source</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="600" type="primary" uri="http://api.discogs.com/image/L-128-1138560119.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-128-1138560119.jpeg" width="600"/>
+        </images>
+        <id>128</id>
+        <name>Metalheadz</name>
+        <contactinfo>Label Manager - chris@metalheadz.co.uk
+            Goldie Management - eddie@eddielock.co.uk
+            License Enquires - bdm@ccyoung.co.uk
+        </contactinfo>
+        <profile>British Drum 'n' Bass label founded by [a=Goldie] and [a=Kemistry &amp; Storm] in 1994.</profile>
+        <parentLabel>Metalheads Music Ltd</parentLabel>
+        <data_quality>Needs Vote</data_quality>
+        <urls>
+            <url>http://www.metalheadz.co.uk</url>
+            <url>http://www.myspace.com/metalheadzltd</url>
+        </urls>
+        <sublabels>
+            <label>Metalheadz Platinum</label>
+            <label>Platinum Breakz</label>
+            <label>Razors Edge</label>
+            <label>Rufige</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="45" type="primary" uri="http://api.discogs.com/image/L-129-001.gif"
+                   uri150="http://api.discogs.com/image/L-150-129-001.gif" width="264"/>
+        </images>
+        <id>129</id>
+        <name>Infrared</name>
+        <contactinfo>Adress for sending demos to:
+
+            Infrared
+            PO BOX 199, Northwood
+            HA6 3WE, England
+        </contactinfo>
+        <profile>J Majik's label</profile>
+        <parentLabel>Infrared Music</parentLabel>
+        <data_quality>Needs Vote</data_quality>
+        <urls>
+            <url>http://www.infraredmusic.com/</url>
+        </urls>
+        <sublabels>
+            <label>Black Widow</label>
+            <label>Infrared Studios</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="60" type="primary" uri="http://api.discogs.com/image/L-130-001.gif"
+                   uri150="http://api.discogs.com/image/L-150-130-001.gif" width="100"/>
+        </images>
+        <id>130</id>
+        <name>Looking Good Records</name>
+        <contactinfo>The Good Looking Organisation,
+            84 Queens Road,
+            Watford,
+            Herts WD17 2LA
+            UK
+
+            Phone: +44(0) 1923 690 700
+        </contactinfo>
+        <profile>Looking Good is a sublabel of LTJ Bukem's [l=Good Looking Records]</profile>
+        <parentLabel>Good Looking Records</parentLabel>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.goodlooking.org/</url>
+        </urls>
+        <sublabels>
+            <label>Looking Back</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="399" type="primary" uri="http://api.discogs.com/image/L-131-1281739830.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-131-1281739830.jpeg" width="400"/>
+            <image height="233" type="secondary" uri="http://api.discogs.com/image/L-131-1288953114.png"
+                   uri150="http://api.discogs.com/image/L-150-131-1288953114.png" width="345"/>
+            <image height="180" type="secondary" uri="http://api.discogs.com/image/L-131-1267461022.png"
+                   uri150="http://api.discogs.com/image/L-150-131-1267461022.png" width="314"/>
+            <image height="241" type="secondary" uri="http://api.discogs.com/image/L-131-1267461129.png"
+                   uri150="http://api.discogs.com/image/L-150-131-1267461129.png" width="250"/>
+        </images>
+        <id>131</id>
+        <name>Dread Recordings</name>
+        <contactinfo>E-mail info@dreadrecordingsuk.com
+
+            Tel: 0207 375 2297
+            Fax: 0207 375 2296
+        </contactinfo>
+        <profile>UK Drum n Bass/Jungle producer and DJ [a=Ray Keith]'s label.
+
+            For licensing or publishing type credits use whichever company appears on the release, Ray Keith has
+            numerous 'publishing identities' including:
+            [a=RK Productions] [artist]
+            [l=RK Productions] [label]
+            [l=Dread Music] [publishing]
+            [l=Dread Recordings Ltd] [company]
+
+            To be continued...
+        </profile>
+        <data_quality>Needs Vote</data_quality>
+        <urls>
+            <url>http://www.dreadrecordingsuk.com</url>
+        </urls>
+        <sublabels>
+            <label>AK Records</label>
+            <label>Penny Black</label>
+            <label>UFO</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="66" type="primary" uri="http://api.discogs.com/image/L-132-001.png"
+                   uri150="http://api.discogs.com/image/L-150-132-001.png" width="147"/>
+            <image height="129" type="secondary" uri="http://api.discogs.com/image/L-132-1233600402.png"
+                   uri150="http://api.discogs.com/image/L-150-132-1233600402.png" width="153"/>
+        </images>
+        <id>132</id>
+        <name>F-Jams</name>
+        <data_quality>Correct</data_quality>
+    </label>
+    <label>
+        <images>
+            <image height="286" type="primary" uri="http://api.discogs.com/image/L-133-1236641357.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-133-1236641357.jpeg" width="600"/>
+            <image height="144" type="secondary" uri="http://api.discogs.com/image/L-133-1243447381.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-133-1243447381.jpeg" width="600"/>
+            <image height="427" type="secondary" uri="http://api.discogs.com/image/L-133-1243447397.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-133-1243447397.jpeg" width="600"/>
+            <image height="198" type="secondary" uri="http://api.discogs.com/image/L-133-1273744886.png"
+                   uri150="http://api.discogs.com/image/L-150-133-1273744886.png" width="267"/>
+        </images>
+        <id>133</id>
+        <name>Valve Recordings</name>
+        <contactinfo>London - UK.
+            Phone: +44 2088534900
+            E-mail: info@valverecordings.com
+        </contactinfo>
+        <profile>[a=Dillinja &amp; Lemon D]'s label, named the same as their Valve sound system, which has been widely
+            commented on as the first sound system to be built specifically with drum n bass in mind.
+        </profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.vlvmusic.com/</url>
+        </urls>
+        <sublabels>
+            <label>Beatz</label>
+            <label>Pain</label>
+            <label>Test Recordings</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="60" type="secondary" uri="http://api.discogs.com/image/L-134-1108085822.jpg"
+                   uri150="http://api.discogs.com/image/L-150-134-1108085822.jpg" width="300"/>
+        </images>
+        <id>134</id>
+        <name>Precision Breakbeat Research</name>
+        <contactinfo>Hamburger Allee 45
+            60486 Frankfurt
+            Germany
+
+            Fax: +49 (069) 77019992
+            Email: all@prcsn.de
+        </contactinfo>
+        <profile>German Drum'n'Bass label that was owned and run by Jan Hennig aka [a=Kabuki] and Mainframe. It was shut
+            down in 2007 with #PRCSN28 being the last and final release.
+
+            Labelcode: LC 10713
+        </profile>
+        <data_quality>Needs Vote</data_quality>
+    </label>
+    <label>
+        <images>
+            <image height="602" type="primary" uri="http://api.discogs.com/image/L-135-1354878308-7813.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-135-1354878308-7813.jpeg" width="600"/>
+            <image height="266" type="secondary" uri="http://api.discogs.com/image/L-135-1354878324-9836.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-135-1354878324-9836.jpeg" width="350"/>
+        </images>
+        <id>135</id>
+        <name>Saigon</name>
+        <contactinfo>Email: info@nouturnrecords.co.uk</contactinfo>
+        <parentLabel>No U-Turn</parentLabel>
+        <data_quality>Needs Vote</data_quality>
+        <urls>
+            <url>http://www.nouturnrecords.co.uk</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="258" type="primary" uri="http://api.discogs.com/image/L-136-1095789168.jpg"
+                   uri150="http://api.discogs.com/image/L-150-136-1095789168.jpg" width="300"/>
+            <image height="138" type="secondary" uri="http://api.discogs.com/image/L-136-1259904901.png"
+                   uri150="http://api.discogs.com/image/L-150-136-1259904901.png" width="354"/>
+        </images>
+        <id>136</id>
+        <name>Fuze Recordings</name>
+        <contactinfo>t: 0044 (0) 7970 136175
+            f: 0044 (0) 1708 765 798
+            asides2000@btinternet.com
+        </contactinfo>
+        <profile>Drum'n'bass label owned and operated by [a=A-Sides]</profile>
+        <parentLabel>Eastside Records</parentLabel>
+        <data_quality>Needs Vote</data_quality>
+    </label>
+    <label>
+        <images>
+            <image height="88" type="primary" uri="http://api.discogs.com/image/L-137-001.gif"
+                   uri150="http://api.discogs.com/image/L-150-137-001.gif" width="146"/>
+        </images>
+        <id>137</id>
+        <name>Audio Blueprint</name>
+        <contactinfo>skynet@skynetrecordings.com</contactinfo>
+        <profile>[a=Stakka &amp; Skynet]'s label.</profile>
+        <data_quality>Needs Vote</data_quality>
+        <sublabels>
+            <label>Audio Blueprint Studios</label>
+            <label>Underfire</label>
+            <label>Zero Gravity</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="399" type="primary" uri="http://api.discogs.com/image/L-139-1310432044.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-139-1310432044.jpeg" width="399"/>
+        </images>
+        <id>139</id>
+        <name>No U-Turn</name>
+        <contactinfo>Email info@nouturnrecords.co.uk
+            081-746 0998
+        </contactinfo>
+        <profile>No U-Turn Records is a UK based record label owned and run by Nico (Nicholas Kristian Sykes).
+            A visionary producer and pioneer of drum &amp; bass driven Techstep, he helped develop ground breaking
+            artists such as Ed Rush, Trace, Rymetyme, Fierce, Silent Witness &amp; Break and labels including Virus,
+            Quarantine, DSCi4, 1210, DNAudio and more.
+            No U-Turn remains today a legendary outlet for cutting edge, dark, ground breaking drum &amp; bass having
+            helped to shape the scene into a far stretching, progressive mentality.
+        </profile>
+        <parentLabel>No U-Turn Records Ltd.</parentLabel>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.nouturnrecords.co.uk</url>
+            <url>http://www.youtube.com/user/NoUTurnHD</url>
+            <url>http://www.myspace.com/nouturnrecords</url>
+        </urls>
+        <sublabels>
+            <label>No U-Turn Studios</label>
+            <label>Nu Black</label>
+            <label>Saigon</label>
+            <label>Turn U On</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="100" type="primary" uri="http://api.discogs.com/image/L-140-001.jpg"
+                   uri150="http://api.discogs.com/image/L-150-140-001.jpg" width="100"/>
+            <image height="600" type="secondary" uri="http://api.discogs.com/image/L-140-1199798071.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-140-1199798071.jpeg" width="390"/>
+            <image height="405" type="secondary" uri="http://api.discogs.com/image/L-140-1199798127.jpeg"
+                   uri150="http://api.discogs.com/image/L-150-140-1199798127.jpeg" width="600"/>
+            <image height="351" type="secondary" uri="http://api.discogs.com/image/L-140-1243577884.png"
+                   uri150="http://api.discogs.com/image/L-150-140-1243577884.png" width="367"/>
+        </images>
+        <id>140</id>
+        <name>Ebony Recordings</name>
+        <profile>Label is owned by Shy FX.</profile>
+        <data_quality>Needs Vote</data_quality>
+        <sublabels>
+            <label>Ebony Dubs</label>
+            <label>Ivory Records</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="138" type="primary" uri="http://api.discogs.com/image/L-141-1232523506.png"
+                   uri150="http://api.discogs.com/image/L-150-141-1232523506.png" width="300"/>
+        </images>
+        <id>141</id>
+        <name>Eruption Records</name>
+        <parentLabel>Creation Records</parentLabel>
+        <data_quality>Correct</data_quality>
+    </label>
+    <label>
+        <images>
+            <image height="113" type="primary" uri="http://api.discogs.com/image/L-142-1077431477.jpg"
+                   uri150="http://api.discogs.com/image/L-150-142-1077431477.jpg" width="115"/>
+        </images>
+        <id>142</id>
+        <name>Evolution / Universal Language Productions Ltd.</name>
+        <contactinfo>All mail order and merchandise enquiries correspondence and demo's to:
+            PO Box 10091
+            London SW1V 4ZG
+            UK
+        </contactinfo>
+        <profile>Record label of Tom Middleton &amp; Mark Pritchard (AKA Global Communications, Jedi Knights, Reload,
+            Secret Ingredients, etc...), also home to artists like The Horn and max404.
+            The Original 12"s were limited to:
+
+            EVO001/002 500,
+            EVO003 1200,
+            EVO004 750,
+            EVO005 750,
+            EVO006 1000,
+            EVO007 200.
+
+            The name of the label was inspired by the Carl Craig track Evolution on his BFC EP on Fragile Records.
+        </profile>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.myspace.com/evolutionrecordingsuk</url>
+            <url>http://www.myspace.com/officiallink</url>
+            <url>http://www.myspace.com/officialreload</url>
+            <url>http://www.myspace.com/thejediknights</url>
+            <url>http://www.myspace.com/officialglobalcommunication</url>
+            <url>http://www.myspace.com/officialmarkpritchard</url>
+            <url>http://www.myspace.com/tommiddleton</url>
+            <url>http://www.reloadonline.com</url>
+        </urls>
+        <sublabels>
+            <label>E3 Recordings</label>
+            <label>Heard</label>
+            <label>Symbiotic</label>
+        </sublabels>
+    </label>
+    <label>
+        <id>143</id>
+        <name>Psychomat</name>
+        <contactinfo>Jono Podmore (KUMO)
+
+            P.O. Box 2977
+            London Ni 2SG
+            fax +44 (0) 171 490 8289
+        </contactinfo>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.psychomat.com</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="80" type="primary" uri="http://api.discogs.com/image/L-144-1095784638.jpg"
+                   uri150="http://api.discogs.com/image/L-150-144-1095784638.jpg" width="348"/>
+            <image height="85" type="secondary" uri="http://api.discogs.com/image/L-144-1262959971.png"
+                   uri150="http://api.discogs.com/image/L-150-144-1262959971.png" width="373"/>
+        </images>
+        <id>144</id>
+        <name>Second Movement Recordings</name>
+        <contactinfo>Second Movement Recordings
+            PO Box 41
+            Tipton
+            DY4 7YT
+            United Kingdom
+
+            Tel/Fax 44 (0) 121 520 1150
+        </contactinfo>
+        <parentLabel>Back 2 Basics</parentLabel>
+        <data_quality>Correct</data_quality>
+        <sublabels>
+            <label>SMR Studios</label>
+        </sublabels>
+    </label>
+    <label>
+        <images>
+            <image height="300" type="primary" uri="http://api.discogs.com/image/L-145-001.gif"
+                   uri150="http://api.discogs.com/image/L-150-145-001.gif" width="300"/>
+            <image height="193" type="secondary" uri="http://api.discogs.com/image/L-145-1262868228.png"
+                   uri150="http://api.discogs.com/image/L-150-145-1262868228.png" width="239"/>
+            <image height="177" type="secondary" uri="http://api.discogs.com/image/L-145-1257661868.png"
+                   uri150="http://api.discogs.com/image/L-150-145-1257661868.png" width="576"/>
+        </images>
+        <id>145</id>
+        <name>Relief Records</name>
+        <contactinfo>Relief Records, Manufactured &amp; Distributed by Cajual Entertainment, Inc.
+
+            17 N. Loomis st. #1M,
+            Chicago, Il 60607, U.S.A.
+
+            Phone: 312.421.8008
+            Fax: 312.421.8755
+
+            GENERAL INQUIRIES: info@cajual.com
+            CUSTOMER SERVICE: sales@cajual.com
+        </contactinfo>
+        <profile>Label run by [a=Curtis Alan Jones]. Sublabel of Cajual.</profile>
+        <parentLabel>Cajual Records</parentLabel>
+        <data_quality>Correct</data_quality>
+        <urls>
+            <url>http://www.cajual.com</url>
+            <url>http://www.facebook.com/reliefrecords</url>
+            <url>http://www.twitter.com/reliefrecords</url>
+            <url>http://www.myspace.com/reliefrecords</url>
+        </urls>
+    </label>
+    <label>
+        <images>
+            <image height="217" type="primary" uri="http://api.discogs.com/image/L-146-1230818709.png"
+                   uri150="http://api.discogs.com/image/L-150-146-1230818709.png" width="301"/>
+            <image height="32" type="secondary" uri="http://api.discogs.com/image/L-146-1097949805.jpg"
+                   uri150="http://api.discogs.com/image/L-150-146-1097949805.jpg" width="375"/>
+        </images>
+        <id>146</id>
+        <name>Tektite Recordings</name>
+        <data_quality>Correct</data_quality>
+    </label>
+</labels>

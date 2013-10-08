@@ -1,0 +1,9 @@
+#!/usr/bin/env ruby
+
+$: << File.expand_path("../../lib", __FILE__)
+
+require 'dius/aws'
+
+include Dius::Aws
+
+emr_run_script ARGV[0], [ARGV[1], [ARGV[2]

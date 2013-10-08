@@ -1,0 +1,29 @@
+#!/usr/bin/env ruby
+
+require 'aws-sdk'
+
+AWS_ACCESS_KEY = ENV['AWS_ACCESS_KEY']
+AWS_SECRET_KEY = ENV['AWS_SECRET_KEY']
+AWS_REGION = ENV['AWS_REGION']
+STACK_NAME = 'yarn'
+
+client = AWS::OpsWorks.new(:region => 'us-east-1').client
+
+stacks = client.describe_stacks()[:stacks]
+stack_id = stacks.find{ |stack| stack[:name] = STACK_NAME }[:stack_id]
+puts "Stack ID: #{stack_id}"
+
+layers = client.describe_layers(stack_id: stack_id)[:layers]
+hdfs_primary_layer_id = layers.find{ |layer| layer[:shortname] = 'hdfs-primary' }[:layer_id]
+puts "HDFS primary layer ID: #{hdfs_primary_layer_id}"
+
+instance_config = {
+	stack_id: stack_id,
+	layer_ids: [ hdfs_primary_layer_id ],
+	instance_type: 'm1.small',
+}
+
+response = client.create_instance(instance_config)
+puts "Instance ID: #{response[:instance_id]}"
+
+client.start_stack(stack_id: stack_id)

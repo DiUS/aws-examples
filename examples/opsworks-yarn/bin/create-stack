@@ -1,0 +1,62 @@
+#!/usr/bin/env ruby
+
+require 'aws-sdk'
+
+AWS_ACCESS_KEY = ENV['AWS_ACCESS_KEY']
+AWS_SECRET_KEY = ENV['AWS_SECRET_KEY']
+AWS_REGION = ENV['AWS_REGION']
+
+client = AWS::OpsWorks.new(:region => 'us-east-1').client
+
+stack_config = {
+	name: 'yarn',
+	region: AWS_REGION,
+	service_role_arn: 'arn:aws:iam::700072383326:role/aws-opsworks-service-role',
+	default_instance_profile_arn: 'arn:aws:iam::700072383326:instance-profile/aws-opsworks-ec2-role',
+	default_os: 'Ubuntu 12.04 LTS',
+	hostname_theme: 'Legendary_creatures_from_Japan',
+	use_custom_cookbooks: true,
+	custom_cookbooks_source: {
+		type: 's3',
+		url: 'https://s3.amazonaws.com/aws-examples-1.dius.com.au/opscode-yarn/cookbooks.tar.gz',
+		username: AWS_ACCESS_KEY,
+		password: AWS_SECRET_KEY
+	},
+	configuration_manager: {
+		name: 'Chef',
+		version: '11.4'
+	},
+	default_ssh_key_name: 'default',
+	default_root_device_type: 'instance-store'
+}
+
+response = client.create_stack(stack_config)
+stack_id = response[:stack_id]
+puts "Stack ID: #{stack_id}"
+
+layer_config = {
+	stack_id: stack_id,
+	type: 'custom',
+	name: 'HDFS Primary Master',
+	shortname: 'hdfs-primary',
+	volume_configurations: [{
+		mount_point: '/dev/sdf',
+		raid_level: 0,
+		number_of_disks: 2,
+		size: 100
+	}],
+	enable_auto_healing: false,
+	auto_assign_elastic_ips: true,
+	custom_recipes: {
+		setup: ['cdh'],
+		configure: [],
+		deploy: [],
+		undeploy: [],
+		shutdown: []
+	}
+}
+
+response = client.create_layer(layer_config)
+puts "HDFS primary layer ID: #{response[:layer_id]}"
+
+client.start_stack(stack_id: stack_id)

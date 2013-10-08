@@ -1,0 +1,20 @@
+---
+
+- include: bootstrap.yml instance_name=hadoop-ebs-bootstrap
+
+- name: Create an EBS backed AMI
+  hosts: localhost
+  connection: local
+  vars:
+    aws_access_key: "{{ lookup('env', 'AWS_ACCESS_KEY') }}"
+    aws_secret_key: "{{ lookup('env', 'AWS_SECRET_KEY') }}"
+  tasks:
+  # Can't wait for AMI creation due to a bug in ansible
+  - local_action: ec2_ami aws_access_key={{ aws_access_key }} aws_secret_key={{ aws_secret_key }} instance_id={{ ec2.instance_ids[0] }}
+                  wait=no name=hadoop-ebs-bootstrap no_reboot=no
+
+- name: Terminate instance
+  hosts: localhost
+  connection: local
+  tasks:
+    - local_action: ec2 state=absent instance_ids={{ec2.instance_ids}}

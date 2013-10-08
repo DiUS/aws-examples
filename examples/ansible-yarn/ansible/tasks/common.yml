@@ -1,0 +1,25 @@
+- template: src=templates/etc/sudoers dest=/etc/sudoers mode=440
+- template: src=templates/etc/ssh/sshd_config dest=/etc/ssh/sshd_config
+  notify:
+     - restart sshd
+
+- file: state=directory path=/opt/install mode=0777
+- apt: pkg=python-software-properties force=yes
+- apt: pkg=git force=yes
+- apt: pkg=python-setuptools force=yes
+- easy_install: name=pip
+- pip: name=boto
+- name: installing base packages
+  action: apt pkg=$item state=installed update_cache=yes force=yes
+  with_items:
+    - perl
+    - curl
+    - telnet
+    - rcs
+    - screen
+    - gcc
+    - sharutils
+    - tmux
+    - lynx
+    - netcat
+    - openjdk-7-jdk

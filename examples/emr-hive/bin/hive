@@ -1,0 +1,74 @@
+#!/usr/bin/env ruby
+
+$: << File.expand_path("../../lib", __FILE__)
+
+require 'dius/aws'
+
+include Dius::Aws
+
+def usage
+  puts "Usage: hive run NAME [ SCRIPT ]"
+end
+
+def hive_run(job_flow_name)
+  job_flow_id = emr_run_flow(job_flow_name) do |config|
+    config[:bootstrap_actions].push(
+      :name => "Install ruby",
+          :script_bootstrap_action => {
+          :path => "s3n://aws-examples.dius.com.au/bootstrap/install-ruby.sh"
+      }
+    )
+    config[:bootstrap_actions].push(
+        :name => "Install jars",
+        :script_bootstrap_action => {
+            :path => "s3n://aws-examples.dius.com.au/bootstrap/install-jars.sh"
+        }
+    )
+    config[:bootstrap_actions].push(
+        :name => "Configure hadoop",
+        :script_bootstrap_action => {
+            :path => "s3://elasticmapreduce/bootstrap-actions/configure-hadoop",
+            :args => [
+              "-C", "s3://aws-examples.dius.com.au/conf/core-site.xml",
+              "-H", "s3://aws-examples.dius.com.au/conf/hdfs-site.xml",
+              "-M", "s3://aws-examples.dius.com.au/conf/mapred-site.xml"
+            ]
+        }
+    )
+  end
+
+	emr_add_hive_step(job_flow_id, "Install hive") do |config|
+		config[:hadoop_jar_step][:args].concat %w{
+			--install-hive
+		}
+	end
+
+	emr_add_hive_step(job_flow_id, "Configure hive") do |config|
+		config[:hadoop_jar_step][:args].concat %w{
+			--install-hive-site --hive-site=s3://aws-example.dius.com.au/conf/hive-site.xml
+		}
+	end
+end
+
+def hive_script(job_flow_id, script)
+	emr_add_hive_step(ARGV[0], "Add hive step") do |config|
+		config[:hadoop_jar_step][:args].concat %w{
+			--run-hive-script --args -f #{script}
+		}
+	end
+end
+
+if ARGV.length < 2
+  usage
+  exit 1
+end
+
+case ARGV[0]
+when "run"
+  hive_run ARGV[1]
+when "script"
+  hive_run ARGV[1], ARGV[2]
+else
+  usage
+  exit 1
+end

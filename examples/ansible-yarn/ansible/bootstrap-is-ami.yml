@@ -1,0 +1,42 @@
+---
+
+- include: bootstrap.yml instance_name=hadoop-is-bootstrap
+
+- name: Create an instance store backed AMI
+  hosts: bootstrap
+  user: ubuntu
+  sudo: yes
+  tags:
+    - wip
+  vars:
+    aws_account_id: "{{ lookup('env', 'AWS_ACCOUNT_ID') }}"
+    aws_access_key: "{{ lookup('env', 'AWS_ACCESS_KEY') }}"
+    aws_secret_key: "{{ lookup('env', 'AWS_SECRET_KEY') }}"
+    aws_signing_key: "{{ lookup('env', 'AWS_SIGNING_KEY') }}"
+    aws_signing_cert: "{{ lookup('env', 'AWS_SIGNING_CERT') }}"
+    aws_region: "{{ lookup('env', 'AWS_REGION') }}"
+    ami_name: hadoop-is-bootstrap
+    ami_bucket: ami.solidstate.com.au
+    aws_env:
+      AWS_ACCESS_KEY: "{{ lookup('env', 'AWS_ACCESS_KEY') }}"
+      AWS_SECRET_KEY: "{{ lookup('env', 'AWS_SECRET_KEY') }}"
+  tasks:
+    - file: state=directory path=/tmp/cert
+    - copy: src={{ aws_signing_key }} dest=/tmp/cert/aws_signing_key.pem
+    - copy: src={{ aws_signing_cert }} dest=/tmp/cert/aws_signing_cert.pem
+    - shell: rm -f /tmp/hadoop-*
+    - shell: sudo ec2-bundle-vol -u {{ aws_account_id }} -p {{ ami_name }} -r x86_64 
+              -k /tmp/cert/aws_signing_key.pem -c /tmp/cert/aws_signing_cert.pem -e /tmp/cert
+      environment: "{{ aws_env }}"
+    - shell: sudo ec2-upload-bundle -b {{ ami_bucket }}/{{ ami_name }} -m /tmp/{{ ami_name }}.manifest.xml
+              -a {{ aws_access_key }} -s {{ aws_secret_key }} --location {{ aws_region }} --acl public-read
+      environment: "{{ aws_env }}"
+    - shell: ec2-register {{ ami_bucket }}/{{ ami_name }}/{{ ami_name }}.manifest.xml -n {{ ami_name }}
+            -K /tmp/cert/aws_signing_key.pem -C /tmp/cert/aws_signing_cert.pem --region={{ aws_region }}
+      environment: "{{ aws_env }}"
+
+- name: Terminate instance
+  hosts: localhost
+  connection: local
+  tasks:
+    - local_action: ec2 state=absent instance_ids={{ec2.instance_ids}}

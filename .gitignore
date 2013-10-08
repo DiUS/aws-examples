@@ -1,0 +1,20 @@
+.gradle
+.profile*
+*.log
+build
+out
+tmp
+target
+
+### OSX ###
+.DS_Store
+
+### IntelliJ ###
+.name
+.idea
+
+*.iml
+*.ipr
+*.iws
+
+aws-examples.sublime-project aws-examples.sublime-workspace

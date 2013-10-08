@@ -1,0 +1,26 @@
+
+apply plugin: 'java'
+apply plugin: 'maven'
+
+//defaultTasks 'install'
+
+repositories {
+  mavenCentral()
+}
+
+dependencies {
+  compile group: 'org.apache.hadoop', name: "hadoop-core", version: '1.0.3'
+  //compile group: 'org.postgrseql', name: "postgresql", version: '9.2-1003-jdbc4'
+  compile group: 'org.apache.mahout', name: "mahout-examples", version: '0.3'
+}
+
+group = "au.com.dius"
+version = System.getProperty("au.com.dius.version") ?: "0.0.0-SNAPSHOT"
+
+sourceSets {
+  main {
+    java {
+      srcDirs = ['src/steps/java']
+    }
+  }
+}

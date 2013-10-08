@@ -1,0 +1,30 @@
+#!/usr/bin/env ruby
+
+EXAMPLE_DIR = File.join(File.dirname(__FILE__), '..')
+BASEDIR = File.join(EXAMPLE_DIR, '..', '..')
+
+$: << File.join(BASEDIR, 'lib')
+
+require 'fileutils'
+require 'open3'
+require 'dius/aws'
+
+include FileUtils
+include Dius::Aws
+
+build_dir = '/tmp/cookbooks'
+cookbook_dirs = Dir.glob(File.join(EXAMPLE_DIR, 'cookbooks', '*'))
+cookbook_dirs += ['../../opscode-cookbooks/apt'].map { |dir| File.join(BASEDIR, dir) }
+
+rm_rf build_dir
+mkdir_p build_dir
+
+cookbook_dirs.each do |dir|
+	cp_r(dir, build_dir)
+end
+
+out, status = Open3.capture2e("tar cvzf /tmp/cookbooks.tar.gz -C /tmp --exclude .git cookbooks")
+puts out
+exit 1 unless status.exitstatus == 0
+
+s3_put('/tmp/cookbooks.tar.gz', 'aws-examples-1.dius.com.au/opscode-yarn')

@@ -1,0 +1,81 @@
+---
+  
+- hosts: bigd
+  user: ubuntu
+  sudo: yes
+  tags:
+    - auth
+  vars:
+    authorized_keys:
+      - templates/home/admin_user/.ssh/psn-production.pub
+    admin_group_priv: "NOPASSWD:"
+  tasks:
+     - include: tasks/auth.yml
+     - template: src=templates/etc/dhcp/dhclient.conf dest=/etc/dhcp/dhclient.conf
+     - command: pkill -HUP dhclient
+     - command: dhclient
+     - template: src=templates/etc/hosts dest=/etc/hosts
+     - command: hostname ${inventory_hostname_short}
+     - shell: echo "${inventory_hostname_short}" > /etc/hostname
+
+- hosts: bigd
+  user: dius
+  sudo: yes
+  tags:
+    - splunk
+  vars:
+    splunk_home: /opt/splunkforwarder
+  tasks:
+    - command: dpkg -i /opt/download/splunkforwarder-5.0.1-143156-linux-2.6-amd64.deb
+    - command: chown -R splunk:splunk ${splunk_home}
+    - template: src=templates${splunk_home}/etc/system/local/inputs.conf dest=${splunk_home}/etc/system/local/inputs.conf owner=splunk group=splunk mode=0600
+
+- hosts: bigd
+  user: dius
+  sudo: yes
+  sudo_user: splunk
+  tags:
+    - splunk
+  vars:
+    splunk_home: /opt/splunkforwarder
+    splunk_auth: admin:changeme
+    splunk_cli: ${splunk_home}/bin/splunk
+    splunk_forwarder: ${groups.bigd_www[0]}:9997
+    splunk_ctl_args: --accept-license --answer-yes --no-prompt
+  tasks:
+    - command: ${splunk_cli} set splunkd-port 8089 -auth ${splunk_auth} ${splunk_ctl_args}
+    - shell: ${splunk_cli} status ${splunk_ctl_args} || ${splunk_cli} start ${splunk_ctl_args}
+    - shell: ${splunk_cli} list forward-server -auth ${splunk_auth} | grep ${splunk_forwarder} || ${splunk_cli} add forward-server ${splunk_forwarder} -auth ${splunk_auth}
+
+- hosts: bigd
+  user: dius
+  sudo: yes
+  tags:
+    - splunk
+  vars:
+    splunk_home: /opt/splunkforwarder
+    splunk_auth: admin:changeme
+    splunk_cli: ${splunk_home}/bin/splunk
+  tasks:
+    - command: ${splunk_cli} enable boot-start
+
+- hosts: bigd
+  user: dius
+  sudo: yes
+  vars:
+    hadoop_namenode_host: ${groups.bigd_master[0]}
+    hadoop_yarn_resourcemanager_host: ${groups.bigd_master[0]}
+    hadoop_mapreduce_history_host: ${groups.bigd_master[0]}
+    zookeeper_quorum_hosts: ${groups.bigd_zookeeper}
+  tasks:
+    - include: tasks/cloudera.yml
+    - apt: pkg=hadoop-client
+    - apt: pkg=hbase
+    - template: src=templates/home/admin_user/.bashrc.bigd.master dest=/home/${admin_user}/.bashrc.bigd.master owner=${admin_user} group=${admin_user}
+    - template: src=templates/etc/hadoop/conf/core-site.xml dest=/etc/hadoop/conf/core-site.xml
+    - template: src=templates/etc/hadoop/conf/hdfs-site.xml dest=/etc/hadoop/conf/hdfs-site.xml
+    - template: src=templates/etc/hadoop/conf/slaves dest=/etc/hadoop/conf/slaves
+    - template: src=templates/etc/hadoop/conf/yarn-site.xml dest=/etc/hadoop/conf/yarn-site.xml
+    - template: src=templates/etc/hadoop/conf/mapred-site.xml dest=/etc/hadoop/conf/mapred-site.xml
+    - template: src=templates/etc/hbase/conf/hbase-site.xml dest=/etc/hbase/conf/hbase-site.xml
+    - template: src=templates/etc/hbase/conf/regionservers dest=/etc/hbase/conf/regionservers

@@ -1,0 +1,7 @@
+- user: name={{ username }} home=/home/{{ username }} createhome=yes shell=/bin/bash
+- file: state=directory path=/home/{{ username }}/.ssh owner={{ username }} group={{ username }} mode=0700
+- file: state=directory path=/home/{{ username }}/bin owner={{ username }} group={{ username }} mode=0755
+- authorized_key: user={{ username }} key='$FILE({{ admin_user_public_key }})'
+- copy: src={{ admin_user_private_key }} dest=/home/{{ username }}/.ssh/id_rsa owner={{ username }} group={{ groupname }} mode=0600
+- template: src=templates/home/default/.bashrc dest=/home/{{ username }}/.bashrc owner={{ username }} group={{ groupname }}
+- copy: src=templates/home/default/.ssh/config dest=/home/{{ username }}/.ssh/config owner={{ username }} group={{ groupname }} mode=0600

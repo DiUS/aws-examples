@@ -1,0 +1,169 @@
+#!/usr/bin/env ruby
+
+$: << File.expand_path("../../lib", __FILE__)
+
+require 'dius/aws'
+
+include Dius::Aws
+
+REDSHIFT_CLUSTER_ID = 'aws-examples'
+REDSHIFT_DB = 'warehouse'
+REDSHIFT_USER = ENV['REDSHIFT_USER']
+REDSHIFT_PASSWORD = ENV['REDSHIFT_PASSWORD']
+
+def all(job_flow_id)
+  extract_artists(job_flow_id)
+
+  import_time(job_flow_id)
+  import_artists(job_flow_id)
+end
+
+def extract_artists(job_flow_id)
+  emr_add_streaming_step(job_flow_id, "Extract artists") do |config|
+    config[:hadoop_jar_step][:args].concat %w{
+      -D stream.num.map.output.key.fields=3
+      -D stream.num.reduce.output.key.fields=3
+      -input s3n://aws-examples.dius.com.au/sources/discogs_20130801_artists_small.xml
+      -output /artists
+      -mapper s3n://aws-examples.dius.com.au/steps/artist_mapper.rb
+      -reducer s3n://aws-examples.dius.com.au/steps/dedup_reducer.rb
+      -inputreader StreamXmlRecordReader,begin=<artist>,end=</artist>
+    }
+  end
+end
+
+def extract_labels(job_flow_id)
+  emr_add_streaming_step(job_flow_id, "Extract labels") do |config|
+    config[:hadoop_jar_step][:args].concat %w{
+      -D stream.num.map.output.key.fields=4
+      -D stream.num.reduce.output.key.fields=4
+      -input s3n://aws-examples.dius.com.au/sources/discogs_20130801_labels_small.xml
+      -output /labels
+      -mapper s3n://aws-examples.dius.com.au/steps/label_mapper.rb
+      -reducer s3n://aws-examples.dius.com.au/steps/dedup_reducer.rb
+      -inputreader StreamXmlRecordReader,begin=<label>,end=</label>
+    }
+  end
+end
+
+def extract_releases(job_flow_id)
+  emr_add_streaming_step(job_flow_id, "Extract releases") do |config|
+    config[:hadoop_jar_step][:args].concat %w{
+      -D stream.num.map.output.key.fields=3
+      -D stream.num.reduce.output.key.fields=3
+      -input s3n://aws-examples.dius.com.au/sources/discogs_20130801_releases_small.xml
+      -output /releases
+      -mapper s3n://aws-examples.dius.com.au/steps/release_mapper.rb
+      -reducer s3n://aws-examples.dius.com.au/steps/dedup_reducer.rb
+      -inputreader StreamXmlRecordReader,begin=<release,end=</release>
+    }
+  end
+end
+
+def extract_artist_facts(job_flow_id)
+  emr_add_streaming_step(job_flow_id, "Extract artist facts") do |config|
+    config[:hadoop_jar_step][:args].concat %w{
+      -D stream.num.map.output.key.fields=2
+      -D stream.num.reduce.output.key.fields=3
+      -input s3n://aws-examples.dius.com.au/sources/discogs_20130801_releases_small.xml
+      -output /artist_facts
+      -mapper s3n://aws-examples.dius.com.au/steps/artist_fact_mapper.rb
+      -reducer s3n://aws-examples.dius.com.au/steps/artist_fact_reducer.rb
+      -inputreader StreamXmlRecordReader,begin=<release,end=</release>
+    }
+  end
+end
+
+def import_time(job_flow_id)
+  emr_add_distcp_step(job_flow_id, "Copy time data") do |config|
+    config[:hadoop_jar_step][:args].concat %w{
+      --src s3n://aws-examples.dius.com.au/sources
+      --dest hdfs:///time
+      --srcPattern time.tsv
+    }
+  end
+
+  redshift = redshift_with_cluster(REDSHIFT_CLUSTER_ID)
+
+  emr_add_sqoop_export_step(job_flow_id, "Import time") do |config|
+    config[:hadoop_jar_step][:args].concat %W{
+      --connect jdbc:postgresql://#{redshift.endpoint.address}:#{redshift.endpoint.port}/#{redshift.db_name}
+      --username #{REDSHIFT_USER}
+      --password #{REDSHIFT_PASSWORD}
+      --export-dir /time
+      --table time
+    }
+  end
+end
+
+def import_artists(job_flow_id)
+  redshift = redshift_with_cluster(REDSHIFT_CLUSTER_ID)
+
+  emr_add_sqoop_export_step(job_flow_id, "Import artists") do |config|
+    config[:hadoop_jar_step][:args].concat %W{
+      --connect jdbc:postgresql://#{redshift.endpoint.address}:#{redshift.endpoint.port}/#{redshift.db_name}
+      --username #{REDSHIFT_USER}
+      --password #{REDSHIFT_PASSWORD}
+      --export-dir /artists
+      --table artists
+    }
+  end
+end
+
+def import_labels(job_flow_id)
+  redshift = redshift_with_cluster(REDSHIFT_CLUSTER_ID)
+
+  emr_add_sqoop_export_step(job_flow_id, "Import labels") do |config|
+    config[:hadoop_jar_step][:args].concat %W{
+      --connect jdbc:postgresql://#{redshift.endpoint.address}:#{redshift.endpoint.port}/#{redshift.db_name}
+      --username #{REDSHIFT_USER}
+      --password #{REDSHIFT_PASSWORD}
+      --export-dir /labels
+      --table labels
+    }
+  end
+end
+
+def import_releases(job_flow_id)
+  redshift = redshift_with_cluster(REDSHIFT_CLUSTER_ID)
+
+  emr_add_sqoop_export_step(job_flow_id, "Import releases") do |config|
+    config[:hadoop_jar_step][:args].concat %W{
+      --connect jdbc:postgresql://#{redshift.endpoint.address}:#{redshift.endpoint.port}/#{redshift.db_name}
+      --username #{REDSHIFT_USER}
+      --password #{REDSHIFT_PASSWORD}
+      --export-dir /releases
+      --table releases
+    }
+  end
+end
+
+def import_artist_facts(job_flow_id)
+  redshift = redshift_with_cluster(REDSHIFT_CLUSTER_ID)
+
+  emr_add_sqoop_export_step(job_flow_id, "Import artist_facts") do |config|
+    config[:hadoop_jar_step][:args].concat %W{
+      --connect jdbc:postgresql://#{redshift.endpoint.address}:#{redshift.endpoint.port}/#{redshift.db_name}
+      --username #{REDSHIFT_USER}
+      --password #{REDSHIFT_PASSWORD}
+      --export-dir /artist_facts
+      --table artist_facts
+    }
+  end
+end
+
+def count_artist_masters(job_flow_id)
+  emr_add_streaming_step(job_flow_id, "Count artist releases") do |config|
+    config.args.concat %w{
+      -input s3n://aws-examples.dius.com.au/sources/discogs_20130801_releases.xml
+      -output s3n://aws-examples.dius.com.au/emr-output
+      -mapper s3n://aws-examples.dius.com.au/steps/artist_fact_mapper.rb
+      -reducer s3n://aws-examples.dius.com.au/steps/artist_fact_reducer.rb
+      -inputreader StreamXmlRecordReader,begin=<master,end=</master>
+      #-D stream.map.output.field.separator=
+      #-D stream.num.map.output.key.fields=2
+    }
+  end
+end
+
+send(ARGV[1].to_sym, ARGV[0])
